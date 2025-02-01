@@ -28,7 +28,7 @@ $(document).ready(function(){
   fitvids();
 
   // Follow menu drop down
-  $(".author__urls-wrapper button").on("click", function() {
+  $(".author__urls-wrapper button").on("click", function(event) {
     event.stopPropagation();
     $(".author__urls").fadeToggle("fast", function() {});
     $(".author__urls-wrapper button").toggleClass("open").blur();
