@@ -19,7 +19,7 @@
     {% if author.pronouns %}
       <p class="author__pronouns" style="margin-top:0;">
         {% if author.aka %}
-          <i>a.k.a.</i><b>{{ author.aka }}</b>
+          <i>a.k.a.</i> <b>{{ author.aka }}</b>
         {% endif %}
         <i>{{ author.pronouns }}</i>
       </p>
@@ -38,7 +38,7 @@
         <li class="author__desktop"><i class="fas fa-fw fa-building-columns icon-pad-right" aria-hidden="true"></i>{{ author.employer }}</li>
       {% endif %}
       {% if author.uri %}
-        <li><a href="{{ author.uri }}"><i class="fas fa-fw fa-link icon-pad-right" aria-hidden="true"></i>{{ site.data.ui-text[site.locale].website_label | default: "Website" }}</a></li>
+        <li><a href="{{ author.uri }}" target="_blank"><i class="fas fa-fw fa-link icon-pad-right" aria-hidden="true"></i>{{ site.data.ui-text[site.locale].website_label | default: "Website" }}</a></li>
       {% endif %}
       {% if author.email %}
         <li><a href="mailto:{{ author.email }}"><i class="fas fa-fw fa-envelope icon-pad-right" aria-hidden="true"></i>{{ site.data.ui-text[site.locale].email_label | default: "Email" }}</a></li>
@@ -46,39 +46,51 @@
       
       <li><p></p></li>
       
+      
+      
+      
+      
+      
+      
       {% if author.linkedin %}
-        <li><a href="https://www.linkedin.com/in/{{ author.linkedin }}"><i class="fab fa-fw fa-linkedin icon-pad-right" aria-hidden="true"></i>LinkedIn</a></li>
+        <li><a href="https://www.linkedin.com/in/{{ author.linkedin }}" target="_blank"><i class="fab fa-fw fa-linkedin icon-pad-right" aria-hidden="true"></i>LinkedIn</a></li>
       {% endif %}
       
       {% if author.twitter %}
-        <li><a href="https://twitter.com/{{ author.twitter }}"><i class="fab fa-fw fa-x-twitter icon-pad-right" aria-hidden="true"></i>X (formerly Twitter)</a></li>
+        <li><a href="https://twitter.com/{{ author.twitter }}" target="_blank"><i class="fab fa-fw fa-x-twitter icon-pad-right" aria-hidden="true"></i>X ⋅ Twitter</a></li>
       {% endif %}
       
       {% if author.bluesky %}
-        <li><a href="https://bsky.app/profile/{{ author.bluesky }}"><i class="fab fa-fw fa-bluesky icon-pad-right" aria-hidden="true"></i>Bluesky</a></li>
+        <li><a href="https://bsky.app/profile/{{ author.bluesky }}" target="_blank"><i class="fab fa-fw fa-bluesky icon-pad-right" aria-hidden="true"></i>Bluesky</a></li>
       {% endif %}
       
       {% if author.soundcloud %}
-        <li><a href="https://soundcloud.com/{{ author.soundcloud }}"><i class="fab fa-fw fa-soundcloud icon-pad-right" aria-hidden="true"></i>Soundcloud</a></li>
+        <li><a href="https://soundcloud.com/{{ author.soundcloud }}" target="_blank"><i class="fab fa-fw fa-soundcloud icon-pad-right" aria-hidden="true"></i>Soundcloud</a></li>
       {% endif %}     
       
       <li><p></p></li>
       
       {% if author.github %}
-        <li><a href="https://github.com/{{ author.github }}"><i class="fab fa-fw fa-github icon-pad-right" aria-hidden="true"></i>Github</a></li>
+        <li><a href="https://github.com/{{ author.github }}" target="_blank"><i class="fab fa-fw fa-github icon-pad-right" aria-hidden="true"></i>Github</a></li>
       {% endif %}
       
       {% if author.researchgate %}
-        <li><a href="{{ author.researchgate }}"><i class="fab fa-fw fa-researchgate icon-pad-right" aria-hidden="true"></i>ResearchGate</a></li>
+        <li><a href="{{ author.researchgate }}" target="_blank"><i class="fab fa-fw fa-researchgate icon-pad-right" aria-hidden="true"></i>ResearchGate</a></li>
       {% endif %}
       
       {% if author.googlescholar %}
-        <li><a href="{{ author.googlescholar }}"><i class="ai ai-google-scholar icon-pad-right"></i>Google Scholar</a></li>
+        <li><a href="{{ author.googlescholar }}" target="_blank"><i class="ai ai-google-scholar icon-pad-right"></i>Google Scholar</a></li>
       {% endif %}
       
       {% if author.orcid %}
-        <li><a href="{{ author.orcid }}"><i class="ai ai-orcid ai-fw icon-pad-right"></i>ORCID</a></li>
+        <li><a href="{{ author.orcid }}" target="_blank"><i class="ai ai-orcid ai-fw icon-pad-right"></i>ORCID</a></li>
       {% endif %}
+      
+      
+      
+      
+      
+      
 
       <!-- Font Awesome and Academicons icons / Academic websites -->
       {% if author.arxiv %}
