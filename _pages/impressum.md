@@ -15,14 +15,14 @@ c/o Hertie School<br>
 Friedrichstr. 180<br>
 10117 Berlin
 
-## Verantwortlich für den Inhalt gemäß § 55 II 2 RStV:
+## Verantwortlich für den Inhalt gemäß § 55 II 2 RStV
 
 Johann-Friedrich Salzmann<br>
 c/o Hertie School<br>
 Friedrichstr. 180<br>
 10117 Berlin
 
-## Verantwortlicher Anbieter i.S.d. Art. 4 Nr. 7 DSGVO:
+## Verantwortlicher Anbieter i.S.d. Art. 4 Nr. 7 DSGVO
 
 Johann-Friedrich Salzmann<br>
 c/o Hertie School<br>
@@ -37,6 +37,6 @@ Friedrichstr. 180<br>
 
 ## Datenschutz
 
-Diese persönliche, nicht-kommerzielle Website ist rein statischer Natur. Hoster ist [Github Pages](https://pages.github.com/). Die entsprechende Datenschutzerklärung kann [hier](https://docs.github.com/de/site-policy/privacy-policies/github-general-privacy-statement) abgerufen werden.
+Diese persönliche, nicht-kommerzielle Website ist rein statischer Natur. Hoster ist [Github Pages](https://pages.github.com/){:target="_blank"}. Die entsprechende Datenschutzerklärung kann [hier](https://docs.github.com/de/site-policy/privacy-policies/github-general-privacy-statement){:target="_blank"} abgerufen werden.
 
 <small><i>Letztes Update: {{ "now" | date: '%d.%m.%Y' %}}</i></small>
