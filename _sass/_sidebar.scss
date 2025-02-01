@@ -139,7 +139,7 @@
   margin: 0;
 
   @include breakpoint($large) {
-    margin-top: 10px;
+    /*margin-top: 10px;*/
     margin-bottom: 10px;
   }
 }
@@ -247,8 +247,8 @@
     display: block;
     margin-bottom: 5px;
     padding-right: 5px;
-    padding-top: 2px;
-    padding-bottom: 2px;
+    padding-top: 1px;
+    padding-bottom: 1px;
     color: inherit;
     font-size: $type-size-5;
     text-decoration: none;
