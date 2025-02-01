@@ -1,0 +1,47 @@
+---
+title: "Impressum"
+permalink: /impressum/
+author_profile: true
+redirect_from: 
+  - /datenschutz/
+---
+
+{% include base_path %}
+
+# Impressum
+
+## Angaben gemäß § 5 DDG
+
+Johann-Friedrich Salzmann
+c/o Hertie School
+Friedrichstr. 180
+10117 Berlin
+
+## Verantwortlich für den Inhalt gemäß § 55 II 2 RStV:
+
+Johann-Friedrich Salzmann
+c/o Hertie School
+Friedrichstr. 180
+10117 Berlin
+
+## Verantwortlicher Anbieter i.S.d. Art. 4 Nr. 7 DSGVO:
+
+Johann-Friedrich Salzmann
+c/o Hertie School
+Friedrichstr. 180
+10117 Berlin
+
+## Kontakt
+
+{% if author.email %}
+<a href="mailto:{{ author.email }}"><i class="fas fa-fw fa-envelope icon-pad-right" aria-hidden="true"></i>{{ site.data.ui-text[site.locale].email_label | default: "E-Mail" }}</a>
+{% endif %}
+
+## Datenschutz
+
+Diese Website ist rein statischer Natur. Hoster ist [Github Pages](https://pages.github.com/). Die entsprechende Datenschutzerklärung kann [hier](https://docs.github.com/de/site-policy/privacy-policies/github-general-privacy-statement) abgerufen werden.
+
+
+
+
+Site last updated {{ "now" | date: '%Y-%m-%d' %}}
