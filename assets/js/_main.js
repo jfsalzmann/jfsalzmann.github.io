@@ -29,8 +29,17 @@ $(document).ready(function(){
 
   // Follow menu drop down
   $(".author__urls-wrapper button").on("click", function() {
+    event.stopPropagation();
     $(".author__urls").fadeToggle("fast", function() {});
-    $(".author__urls-wrapper button").toggleClass("open");
+    $(".author__urls-wrapper button").toggleClass("open").blur();
+  });
+  
+  // close menu when clicking somewhere else
+  $(document).on("click", function(event) {
+    if (!$(event.target).closest(".author__urls-wrapper").length) {
+      $(".author__urls").fadeOut("fast");
+      $(".author__urls-wrapper button").removeClass("open");
+    }
   });
 
   // Restore the follow menu if toggled on a window resize
