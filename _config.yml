@@ -23,7 +23,8 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Johann-Friedrich Salzmann"
-  pronouns         : # example: "she/her"  
+  pronouns         : "he/him"
+  aka              : "Joff"
   bio              : "M.P.P. Master of Public Policy<br>M.Sc. Data Science for Public Policy"
   location         : "Berlin, DE"
   employer         : "Hertie School"
@@ -36,7 +37,7 @@ author:
   impactstory      : # URL
   orcid            : "https://orcid.org/0009-0004-8506-400X"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # URL
   researchgate     : "https://www.researchgate.net/profile/Johann-Friedrich-Salzmann"
   scopus           : # URL
 
