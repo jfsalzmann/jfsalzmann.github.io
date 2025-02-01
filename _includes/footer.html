@@ -20,5 +20,8 @@
 {% endif %}
 
 <div class="page__footer-copyright">
-  &copy; {{ site.time | date: '%Y' }} {{ site.name | default: site.title }}. <a href="/impressum">Impressum</a>. {{ site.data.ui-text[site.locale].powered_by | default: "Credits: " }} <a href="http://jekyllrb.com" rel="nofollow">Jekyll</a>, <a href="https://github.com/academicpages/academicpages.github.io">AcademicPages</a>, <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>. 
+  <span class="ib">&copy; {{ site.time | date: '%Y' }} {{ site.name | default: site.title }}. <a href="/impressum">Impressum</a>.</span>
+  <span class="ib">
+    {{ site.data.ui-text[site.locale].powered_by | default: "Credits: " }} <a href="http://jekyllrb.com" rel="nofollow">Jekyll</a>, <a href="https://github.com/academicpages/academicpages.github.io">AcademicPages</a>, <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.
+  </span>
 </div>
