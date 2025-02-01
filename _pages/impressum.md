@@ -8,8 +8,6 @@ redirect_from:
 
 {% include base_path %}
 
-# Impressum
-
 ## Angaben gemäß § 5 DDG
 
 Johann-Friedrich Salzmann
