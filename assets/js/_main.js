@@ -32,7 +32,7 @@ $(document).ready(function(){
     event.stopPropagation();
     $(".author__urls").fadeToggle("fast", function() {});
     $(".author__urls-wrapper button").toggleClass("open").blur();
-    $("main").focus()
+    $("#main").focus();
   });
   
   // close menu when clicking somewhere else
