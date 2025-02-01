@@ -37,7 +37,7 @@ $(document).ready(function(){
   
   // close menu when clicking somewhere else
   $(document).on("click", function(event) {
-    if (!$(event.target).closest(".author__urls").length) {
+    if ($(".author__urls").is(":visible") && !$(event.target).closest(".author__urls").length) {
       $(".author__urls").fadeOut("fast");
       $(".author__urls-wrapper button").removeClass("open");
     }
