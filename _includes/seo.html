@@ -110,6 +110,8 @@
       "logo": {{ site.og_image | prepend: "/images/" | prepend: base_path | jsonify }}
     }
   </script>
+  <meta name="twitter:image" content="{{ site.og_image | prepend: "/images/" | prepend: base_path }}">
+  <meta property="og:image" content="{{ site.og_image | prepend: "/images/" | prepend: base_path }}">
 {% endif %}
 
 {% if site.social %}
