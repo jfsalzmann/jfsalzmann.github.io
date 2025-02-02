@@ -13,12 +13,12 @@ main:
 
   - title: "Talks"
     url: /talks/
-    
-  - title: "CV"
-    url: /cv/
 
   - title: "Data"
     url: /data/
     
-  - title: "Software"
-    url: /software/
+  - title: "Code"
+    url: /code/
+        
+  - title: "CV"
+    url: /cv/
