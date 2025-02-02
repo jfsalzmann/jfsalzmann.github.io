@@ -1,6 +1,6 @@
 ---
-title: "Talks"
-permalink: /talks/
+title: "Code"
+permalink: /code/
 author_profile: true
 ---
 
