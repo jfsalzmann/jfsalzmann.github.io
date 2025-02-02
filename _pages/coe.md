@@ -1,6 +1,6 @@
 ---
-title: "Academic CV"
-permalink: /cv/
+title: "Data"
+permalink: /data/
 author_profile: true
 ---
 

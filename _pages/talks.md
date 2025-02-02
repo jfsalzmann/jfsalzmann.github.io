@@ -1,6 +1,6 @@
 ---
-title: "Academic CV"
-permalink: /cv/
+title: "Talks"
+permalink: /talks/
 author_profile: true
 ---
 
