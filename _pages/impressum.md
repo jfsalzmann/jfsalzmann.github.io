@@ -15,7 +15,7 @@ c/o Hertie School<br>
 Friedrichstr. 180<br>
 10117 Berlin
 
-## Verantwortlich für den Inhalt gemäß § 55 II 2 RStV
+## Verantwortlicher für den Inhalt gemäß § 55 II 2 RStV
 
 Johann-Friedrich Salzmann<br>
 c/o Hertie School<br>
