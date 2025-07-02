@@ -32,7 +32,7 @@
         <li><i class="fas fa-solid fa-location-dot" aria-hidden="true"></i>{{ author.location }}</li>
       {% endif %}
       {% if author.employer %}
-        <li><i class="fas fa-solid fa-building-columns" aria-hidden="true"></i>{{ author.employer }}</li>
+        <li><a href="{{ author.employer_url }}" target="_blank"><i class="fas fa-solid fa-building-columns" aria-hidden="true"></i>{{ author.employer }}</a></li>
       {% endif %}
     </ul>
   </div>
@@ -45,7 +45,7 @@
         <li class="author__desktop"><i class="fa-solid fa-location-dot icon-pad-right" aria-hidden="true"></i>{{ author.location }}</li>
       {% endif %}
       {% if author.employer %}
-        <li class="author__desktop"><i class="fas fa-fw fa-building-columns icon-pad-right" aria-hidden="true"></i>{{ author.employer }}</li>
+        <li class="author__desktop"><a href="{{ author.employer_url }}" target="_blank"><i class="fas fa-fw fa-building-columns icon-pad-right" aria-hidden="true"></i>{{ author.employer }}</a></li>
       {% endif %}
       {% if author.uri %}
         <li><a href="{{ author.uri }}" target="_blank"><i class="fas fa-fw fa-link icon-pad-right" aria-hidden="true"></i>{{ site.data.ui-text[site.locale].website_label | default: "Website" }}</a></li>
