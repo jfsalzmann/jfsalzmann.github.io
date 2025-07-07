@@ -1,6 +1,6 @@
 ---
-title: "Code"
-permalink: /code/
+title: "Code & Data"
+permalink: /code-data/
 author_profile: true
 ---
 
