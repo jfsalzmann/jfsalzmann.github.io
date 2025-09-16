@@ -37,7 +37,7 @@ For an exhaustive & more general overview of what I've done, please see my <a hr
 - Courses in **B.Sc. Management & Technology** (2014 – 2015)
 
   Technische Universität München (TUM), Germany  
-  *Focus:* Numerical optimisation, operations research
+  *Focus:* Numerical optimisation, statistical programming
 
 
 ## Experience
