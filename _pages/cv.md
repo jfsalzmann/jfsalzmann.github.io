@@ -28,7 +28,7 @@ For an exhaustive & more general overview of what I've done, please see my <a hr
 
 - **B.Sc. Economics** (2016 – 2020)
 
-  Heidelberg University, Germany – 1.7[^1]
+  Heidelberg University, Germany – 1.7[^1]  
   *Focus:* Decision & game theory, neural & behavioral economics
 
   *Thesis*: "Air Temperature and Mortality: An Analysis of Potential Social Impacts of Global Warming using Machine Learning" – 1.7[^1]  
