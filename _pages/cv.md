@@ -6,7 +6,7 @@ author_profile: true
 
 {% include base_path %}
 
-For a more general and detailed overview of what I've done, please check out my <a href="https://www.linkedin.com/in/{{ site.author.linkedin }}" target="_blank"><i class="fab fa-fw fa-linkedin" aria-hidden="true"></i>LinkedIn</a> profile.
+For a more general & detailed overview of what I've done, please see my <a href="https://www.linkedin.com/in/{{ site.author.linkedin }}" target="_blank"><i class="fab fa-fw fa-linkedin" aria-hidden="true"></i>LinkedIn</a> profile.
 
 ## Education
 
