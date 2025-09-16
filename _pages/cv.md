@@ -41,11 +41,12 @@ For an exhaustive & more general overview of what I've done, please see my <a hr
 
 <details>
     <summary>Further courses & certifications</summary>
-
-    <li><p>Certificate in Advanced English (CAE, C1 level) – Cambridge Assessment English (2020)</p></li>
-    <li><p>Exchange semester at SGH Warsaw School of Economics, Poland (2019)</p></li>
-    <li><p>Exchange semester at SNSPA School of Public Administration, Bucharest, Romania (2023)</p></li>
-    <li><p>Extra-curricular junior courses in software development, Technische Universität Dresden (2009 – 2014)</p></li>
+    <ul>
+        <li><p>Certificate in Advanced English (CAE, C1 level) – Cambridge Assessment English (2020)</p></li>
+        <li><p>Exchange semester at SGH Warsaw School of Economics, Poland (2019)</p></li>
+        <li><p>Exchange semester at SNSPA School of Public Administration, Bucharest, Romania (2023)</p></li>
+        <li><p>Extra-curricular junior courses in software development, Technische Universität Dresden (2009 – 2014)</p></li>
+    </ul>
 </details>
 
 ## Experience
