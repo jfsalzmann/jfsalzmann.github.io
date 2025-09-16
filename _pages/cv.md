@@ -34,12 +34,17 @@ For an exhaustive & more general overview of what I've done, please see my <a hr
   *Thesis*: "Air Temperature and Mortality: An Analysis of Potential Social Impacts of Global Warming using Machine Learning" – 1.7[^1]  
   *Supervisor*: Prof. Dr. Christian Conrad
 
+- Courses in **B.Sc. Management & Technology** (2014 – 2015)
+
+  Technische Universität München (TUM), Germany  
+  *Focus:* Numerical optimisation, operations research
+
 
 ## Experience
 
 - **Research Assistant** (since 2024)
 
-  Forschungszentrum Informatik (FZI), Karlsruhe/Berlin, Germany  
+  Forschungszentrum Informatik (FZI), Karlsruhe/Berlin, Germany – House of Participation (HoP)  
   *Project*: High-frequency online panel study "Social Sentiments in Times of Crises (SOSEC)", bi-weekly, USA/Germany, n=3500
 
   *Responsibilities*: Assurance of data quality & representativity, implementation of post-stratification and imputation methods, analysis of individual trajectories of political preference  
@@ -47,16 +52,16 @@ For an exhaustive & more general overview of what I've done, please see my <a hr
 
 - **Teaching Assistant** (2018)
 
-  Heidelberg University, Germany  
+  Heidelberg University, Germany – Faculty of Economics and Social Sciences  
   *Department*: Chair of Econometrics & Statistics, Prof. Dr. Christian Conrad
 
-  *Responsibilities*: Teaching assistant for "Economic & Social Statistics", holding statistical programming lab sessions (STATA intro)  
+  *Responsibilities*: Teaching assistant for B.Sc. course "Economic & Social Statistics", holding statistical programming lab sessions in STATA  
   *Supervisor*: Dr. Alexander Glas
 
 - **Research Assistant** (2014 – 2015)
 
-  Technische Universität München (TUM), Germany  
-  *Department*: Chair of Operations Management, TUM School of Management, Prof. Dr. Rainer Kolisch
+  Technische Universität München (TUM), Germany – TUM School of Management  
+  *Department*: Chair of Operations Management, Prof. Dr. Rainer Kolisch
 
   *Responsibilities*: Infrastructure administration: LRZ computation cloud, databases, VMs, network & system operations  
   *Supervisor*: Dr. Christian Ruf
