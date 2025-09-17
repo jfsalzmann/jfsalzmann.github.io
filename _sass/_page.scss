@@ -93,6 +93,14 @@
     margin: 1.5em 0;
   }
 
+  em {
+    font-size: .9em;
+  }
+
+  em:after {
+    content: ". ";
+  }
+
   a {
     text-decoration: underline;
 
