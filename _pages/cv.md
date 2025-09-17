@@ -40,55 +40,46 @@ For an exhaustive & more general overview of what I've done, please see my <a hr
   *Focus:* Numerical optimisation, statistical programming
 
 <ul>
-<details>
-    <summary>Further courses & certifications</summary>
-    <ul>
-        <li><p>Certificate in Advanced English (CAE, C1 level) – Cambridge Assessment English (2020)</p></li>
-        <li><p>Exchange semester at SGH Warsaw School of Economics, Poland (2019)</p></li>
-        <li><p>Exchange semester at SNSPA School of Public Administration, Bucharest, Romania (2023)</p></li>
-        <li><p>Extra-curricular junior courses in software development, Technische Universität Dresden (2009 – 2014)</p></li>
-    </ul>
-</details>
+    <details>
+        <summary style="list-style-position: outside;">Further courses & certifications</summary>
+        <ul>
+            <li><p>Certificate in Advanced English (CAE, C1 level) – Cambridge Assessment English (2020)</p></li>
+            <li><p>Exchange semester at SGH Warsaw School of Economics, Poland (2019)</p></li>
+            <li><p>Exchange semester at SNSPA School of Public Administration, Bucharest, Romania (2023)</p></li>
+            <li><p>Extra-curricular junior courses in software development, Technische Universität Dresden (2009 – 2014)</p></li>
+        </ul>
+    </details>
 </ul>
 
 ## Experience
 
+- **Research Assistant** (since 2024)
+
+  Forschungszentrum Informatik (FZI), Karlsruhe/Berlin, Germany – House of Participation (HoP)  
+  *Project*: High-frequency online panel study "Social Sentiments in Times of Crises (SOSEC)", bi-weekly, USA/Germany, n=3500
+
+  *Responsibilities*: Assurance of data quality & representativity, implementation of post-stratification and imputation methods, analysis of individual trajectories of political preference  
+  *Supervisor*: Prof. Dr. Michael Mäs, Karlsruhe Institute of Technology (KIT)
+
+- **Teaching Assistant** (2018)
+
+  Heidelberg University, Germany – Faculty of Economics and Social Sciences  
+  *Department*: Chair of Econometrics & Statistics, Prof. Dr. Christian Conrad
+
+  *Responsibilities*: Teaching assistant for B.Sc. course "Economic & Social Statistics", holding statistical programming lab sessions in STATA  
+  *Supervisor*: Dr. Alexander Glas
+
+- **Research Assistant** (2014 – 2015)
+
+  Technische Universität München (TUM), Germany – TUM School of Management  
+  *Department*: Chair of Operations Management, Prof. Dr. Rainer Kolisch
+
+  *Responsibilities*: Infrastructure administration: LRZ computation cloud, VMs, network & system operations, databases  
+  *Supervisor*: Dr. Christian Ruf
+
 <ul>
-    <li>
-        <p><b>Research Assistant</b> (since 2024)</p>
-        <p>
-            Forschungszentrum Informatik (FZI), Karlsruhe/Berlin, Germany – House of Participation (HoP)<br>
-            <i>Project</i>: High-frequency online panel study "Social Sentiments in Times of Crises (SOSEC)", bi-weekly, USA/Germany, n=3500
-        </p>
-        <p>
-            <i>Responsibilities</i>: Data management & analysis, implementation of post-stratification and imputation methods, analysis of individual trajectories of political preference  
-            <i>Supervisor</i>: Prof. Dr. Michael Mäs, Karlsruhe Institute of Technology (KIT)
-        </p>
-    </li>
-    <li>
-        <p><b>Teaching Assistant</b> (2018)</p>
-        <p>
-            Heidelberg University, Germany – Faculty of Economics and Social Sciences<br>
-            <i>Department</i>: Chair of Econometrics & Statistics, Prof. Dr. Christian Conrad
-        </p>
-        <p>
-            <i>Responsibilities</i>: Teaching assistant for B.Sc. course "Economic & Social Statistics", holding statistical programming lab sessions in STATA<br>
-            <i>Supervisor</i>: Dr. Alexander Glas
-        </p>
-    </li>
-    <li>
-        <p><b>Research Assistant</b> (2014 – 2015)</p>
-        <p>
-            Technische Universität München (TUM), Germany – TUM School of Management<br>
-            <i>Department</i>: Chair of Operations Management, Prof. Dr. Rainer Kolisch
-        </p>
-        <p>
-            <i>Responsibilities</i>: Infrastructure administration: LRZ computation cloud, VMs, network & system operations, databases<br>
-            <i>Supervisor</i>: Dr. Christian Ruf
-        </p>
-    </li>
     <details>
-        <summary>Related Projects</summary>
+        <summary style="list-style-position: outside;">Related Projects</summary>
         Please see my <a href="/projects">Projects</a> page for an overview of my recent projects.
     </details>
 </ul>
@@ -126,32 +117,33 @@ For an exhaustive & more general overview of what I've done, please see my <a hr
   </ul>
 </ul>
 
-<details>
-    <summary>System & Server Operations</summary>
-    <ul>
-        <li><p>Linux (Ubuntu, Debian) setup & administration</p></li>
-        <li><p>Cloud computing: Positron Server, AWS S3/EC2</p></li>
-        <li><p>Version control: GitHub, GitLab</p></li>
-        <li><p>Network: Advanced configurations incl. WireGuard, VPN, SSH tunnels</p></li>
-        <li><p>Databases: DuckDB, PostgreSQL, MySQL, MongoDB</p></li>
-        <li><p>Hosting: Web servers, Nextcloud, domain management, DNS</p></li>
-  </ul>
-</details>
-
-<details>
-    <summary>Preferred Stack</summary>
-    <ul>
-        <li><p>Windows & tunnelled Ubuntu VM</p></li>
-        <li><p>Positron (with remote tunnel) > VS Code > RStudio</p></li>
-        <li><p>R tidyverse > base R > Python</p></li>
-        <li><p>DuckDB > PostgreSQL</p></li>
-        <li><p>Typst > Quarto/RMarkdown + LaTeX > pure LaTeX</p></li>
-        <li><p>Mendeley > Zotero</p></li>
+<ul>
+    <details>
+        <summary style="list-style-position: outside;">System & Server Operations</summary>
+        <ul>
+            <li><p>Linux (Ubuntu, Debian) setup & administration</p></li>
+            <li><p>Cloud computing: Positron Server, AWS S3/EC2</p></li>
+            <li><p>Version control: GitHub, GitLab</p></li>
+            <li><p>Network: Advanced configurations incl. WireGuard, VPN, SSH tunnels</p></li>
+            <li><p>Databases: DuckDB, PostgreSQL, MySQL, MongoDB</p></li>
+            <li><p>Hosting: Web servers, Nextcloud, domain management, DNS</p></li>
     </ul>
-</details>
+    </details>
+    <details>
+        <summary style="list-style-position: outside;">Preferred Stack</summary>
+        <ul>
+            <li><p>Windows & tunnelled Ubuntu VM</p></li>
+            <li><p>Positron (with remote tunnel) > VS Code > RStudio</p></li>
+            <li><p>R tidyverse > base R > Python</p></li>
+            <li><p>DuckDB > PostgreSQL</p></li>
+            <li><p>Typst > Quarto/RMarkdown + LaTeX > pure LaTeX</p></li>
+            <li><p>Mendeley > Zotero</p></li>
+        </ul>
+    </details>
+</ul>
 
 
-<hr>
+------------
 
 Thanks for your interest!  
 Did you know I am currently <a href="/">looking</a> for a PhD position?  
