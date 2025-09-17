@@ -94,11 +94,13 @@
   }
 
   em {
-    font-size: .9em;
+    font-size: .75em;
+    text-transform: uppercase;
+    font-style: normal;
   }
 
   em:after {
-    content: ". ";
+    content: " ";
   }
 
   a {
