@@ -79,26 +79,37 @@ For an exhaustive & more general overview of what I've done, please see my <a hr
 ## Technical Skills
 
 - **Data Analysis & Statistics**
-  - *Advanced*: Bayesian statistics, multilevel & latent variable models, compositional data analysis, survey methodology, data visualisation
-  - *Intermediate*: Causal inference, geospatial analysis, machine learning, text as data, larger-than-memory data handling, web crawling
+  - *Advanced*: Bayesian statistics, multilevel & latent variable models, compositional data analysis, survey methodology, data simulation, data visualisation & reporting
+  - *Intermediate*: Causal inference, geospatial analysis, machine learning, text as data, larger-than-memory data handling, web crawling, synthetic data generation
   - *Basic*: Network analysis, deep neural networks, time series analysis
 - **Programming**
-  - *Advanced*: R, STAN, SQL, Typst, LaTeX
-  - *Intermediate*: Python, HTML/CSS, Jekyll, Markdown, JavaScript, PHP, Bash
+  - *Advanced*: R (+ Markdown, Quarto, Shiny), STAN, SQL, Typst, LaTeX
+  - *Intermediate*: Python, HTML/CSS, Jekyll, JavaScript, PHP, Bash
   - *Basic*: Julia, C++, STATA
-- **System & Server Operations**
-  - Linux (Ubuntu, Debian) full set-up, Windows
-  - Cloud computing: Positron Server, AWS S3/EC2
-  - Version control: GitHub, GitLab
-  - Network: Advanced configurations incl. WireGuard, VPN, SSH tunnels
-  - Databases: DuckDB, PostgreSQL, MySQL, MongoDB
-  - Hosting: Web servers, Nextcloud, domain management, DNS
-- **Preferred Stack**
-  - Windows & hosted Ubuntu VM
-  - Positron (with remote tunnel) > VS Code > RStudio
-  - R tidyverse > base R > Python
-  - DuckDB > PostgreSQL
-  - Typst > Quarto/RMarkdown > LaTeX raw
-  - Mendeley > Zotero
 
-  [^1]: Grading scale: 1.0 = very good, 5.0 = fail
+<details>
+    <summary>System & Server Operations</summary>
+    <ul>
+        <li>Linux (Ubuntu, Debian) setup & administration</li>
+        <li>Cloud computing: Positron Server, AWS S3/EC2</li>
+        <li>Version control: GitHub, GitLab</li>
+        <li>Network: Advanced configurations incl. WireGuard, VPN, SSH tunnels</li>
+        <li>Databases: DuckDB, PostgreSQL, MySQL, MongoDB</li>
+        <li>Hosting: Web servers, Nextcloud, domain management, DNS</li>
+  </ul>
+</details>
+
+<details>
+    <summary>Preferred Stack</summary>
+    <ul>
+        <li>Windows & tunnelled Ubuntu VM</li>
+        <li>Positron (with remote tunnel) > VS Code > RStudio</li>
+        <li>R tidyverse > base R > Python</li>
+        <li>DuckDB > PostgreSQL</li>
+        <li>Typst > Quarto/RMarkdown + LaTeX > pure LaTeX</li>
+        <li>Mendeley > Zotero</li>
+    </ul>
+</details>
+
+
+[^1]: Grading scale: 1.0 = very good, 5.0 = fail
