@@ -39,6 +39,7 @@ For an exhaustive & more general overview of what I've done, please see my <a hr
   Technische Universität München (TUM), Germany  
   *Focus:* Numerical optimisation, statistical programming
 
+<ul>
 <details>
     <summary>Further courses & certifications</summary>
     <ul>
@@ -48,37 +49,49 @@ For an exhaustive & more general overview of what I've done, please see my <a hr
         <li><p>Extra-curricular junior courses in software development, Technische Universität Dresden (2009 – 2014)</p></li>
     </ul>
 </details>
+</ul>
 
 ## Experience
 
-- **Research Assistant** (since 2024)
-
-  Forschungszentrum Informatik (FZI), Karlsruhe/Berlin, Germany – House of Participation (HoP)  
-  *Project*: High-frequency online panel study "Social Sentiments in Times of Crises (SOSEC)", bi-weekly, USA/Germany, n=3500
-
-  *Responsibilities*: Assurance of data quality & representativity, implementation of post-stratification and imputation methods, analysis of individual trajectories of political preference  
-  *Supervisor*: Prof. Dr. Michael Mäs, Karlsruhe Institute of Technology (KIT)
-
-- **Teaching Assistant** (2018)
-
-  Heidelberg University, Germany – Faculty of Economics and Social Sciences  
-  *Department*: Chair of Econometrics & Statistics, Prof. Dr. Christian Conrad
-
-  *Responsibilities*: Teaching assistant for B.Sc. course "Economic & Social Statistics", holding statistical programming lab sessions in STATA  
-  *Supervisor*: Dr. Alexander Glas
-
-- **Research Assistant** (2014 – 2015)
-
-  Technische Universität München (TUM), Germany – TUM School of Management  
-  *Department*: Chair of Operations Management, Prof. Dr. Rainer Kolisch
-
-  *Responsibilities*: Infrastructure administration: LRZ computation cloud, VMs, network & system operations, databases  
-  *Supervisor*: Dr. Christian Ruf
-
-<details>
-    <summary>Related Projects</summary>
-    Please see my <a href="/projects">Projects</a> page for an overview of my recent projects.
-</details>
+<ul>
+    <li>
+        <p><b>Research Assistant</b> (since 2024)</p>
+        <p>
+            Forschungszentrum Informatik (FZI), Karlsruhe/Berlin, Germany – House of Participation (HoP)<br>
+            <i>Project</i>: High-frequency online panel study "Social Sentiments in Times of Crises (SOSEC)", bi-weekly, USA/Germany, n=3500
+        </p>
+        <p>
+            <i>Responsibilities</i>: Data management & analysis, implementation of post-stratification and imputation methods, analysis of individual trajectories of political preference  
+            <i>Supervisor</i>: Prof. Dr. Michael Mäs, Karlsruhe Institute of Technology (KIT)
+        </p>
+    </li>
+    <li>
+        <p><b>Teaching Assistant</b> (2018)</p>
+        <p>
+            Heidelberg University, Germany – Faculty of Economics and Social Sciences<br>
+            <i>Department</i>: Chair of Econometrics & Statistics, Prof. Dr. Christian Conrad
+        </p>
+        <p>
+            <i>Responsibilities</i>: Teaching assistant for B.Sc. course "Economic & Social Statistics", holding statistical programming lab sessions in STATA<br>
+            <i>Supervisor</i>: Dr. Alexander Glas
+        </p>
+    </li>
+    <li>
+        <p><b>Research Assistant</b> (2014 – 2015)</p>
+        <p>
+            Technische Universität München (TUM), Germany – TUM School of Management<br>
+            <i>Department</i>: Chair of Operations Management, Prof. Dr. Rainer Kolisch
+        </p>
+        <p>
+            <i>Responsibilities</i>: Infrastructure administration: LRZ computation cloud, VMs, network & system operations, databases<br>
+            <i>Supervisor</i>: Dr. Christian Ruf
+        </p>
+    </li>
+    <details>
+        <summary>Related Projects</summary>
+        Please see my <a href="/projects">Projects</a> page for an overview of my recent projects.
+    </details>
+</ul>
 
 
 ## Technical Skills
@@ -92,16 +105,16 @@ For an exhaustive & more general overview of what I've done, please see my <a hr
   <details>
     <summary>Familiar data sets/sources</summary>
     <ul>
-      <li>German Longitudinal Election Study (GLES)</li>
-      <li>Social Sentiments in Times of Crises (SOSEC)</li>
-      <li>Forsa, Infratest dimap, Forschungsgruppe Wahlen political polls</li>
-      <li>ZEIT Online moving average models of polls</li>
-      <li>German federal- and state-level administration data (e.g. postal election)</li>
-      <li>German and US American census data</li>
-      <li>Weather data nowcast & forecast (DWD)</li>
-      <li>OpenStreetMap (OSM), </li>
-      <li>Berlin spatial data (FIS Broker)</li>
-      <li>Eurostat</li>
+      <li><p>German Longitudinal Election Study (GLES)</p></li>
+      <li><p>Social Sentiments in Times of Crises (SOSEC)</p></li>
+      <li><p>Forsa, Infratest dimap, Forschungsgruppe Wahlen political polls</p></li>
+      <li><p>ZEIT Online moving average models of polls</p></li>
+      <li><p>German federal- and state-level administration data (e.g. postal election)</p></li>
+      <li><p>German and US American census data</p></li>
+      <li><p>Weather data nowcast & forecast (DWD)</p></li>
+      <li><p>OpenStreetMap (OSM)</p></li>
+      <li><p>Berlin spatial data (FIS Broker)</p></li>
+      <li><p>Eurostat</p></li>
     </ul>
   </details>
   </ul>
@@ -138,7 +151,7 @@ For an exhaustive & more general overview of what I've done, please see my <a hr
 </details>
 
 
-------------
+<hr>
 
 Thanks for your interest!  
 Did you know I am currently <a href="/">looking</a> for a PhD position?  
