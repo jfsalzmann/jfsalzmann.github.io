@@ -83,36 +83,42 @@ For an exhaustive & more general overview of what I've done, please see my <a hr
 
 ## Technical Skills
 
-- **Data Analysis & Statistics**
-  - *Advanced*: Bayesian statistics, multilevel & latent variable models, compositional data analysis, survey methodology, data simulation, data visualisation & reporting
-  - *Intermediate*: Causal inference, geospatial analysis, machine learning, text as data, larger-than-memory data handling, web crawling, synthetic data generation
-  - *Basic*: Network analysis, deep neural networks, time series analysis
-- **Programming**
-  - *Advanced*: R (+ Markdown, Quarto, Shiny), STAN, SQL, Typst, LaTeX
-  - *Intermediate*: Python, HTML/CSS, Jekyll, JavaScript, PHP, Bash
-  - *Basic*: Julia, C++, STATA
+<ul>
+<li><p><b>Data Analysis & Statistics</b></p></li>
+  <ul>
+  <li><p><i>Advanced</i>: Bayesian statistics, multilevel & latent variable models, compositional data analysis, survey methodology, data simulation, data visualisation & reporting</p></li>
+  <li><p><i>Intermediate</i>: Causal inference, geospatial analysis, machine learning, text as data, larger-than-memory data handling, web crawling, synthetic data generation</p></li>
+  <li><p><i>Basic</i>: Network analysis, deep neural networks, time series analysis</p></li>
+  </ul>
+<li><p><b>Programming</b></p></li>
+  <ul>
+  <li><p><i>Advanced</i>: R (+ Markdown, Quarto, Shiny), STAN, SQL, Typst, LaTeX</p></li>
+  <li><p><i>Intermediate</i>: Python, HTML/CSS, Jekyll, JavaScript, PHP, Bash</p></li>
+  <li><p><i>Basic</i>: Julia, C++, STATA</p></li>
+  </ul>
+</ul>
 
 <details>
     <summary>System & Server Operations</summary>
     <ul>
-        <li>Linux (Ubuntu, Debian) setup & administration</li>
-        <li>Cloud computing: Positron Server, AWS S3/EC2</li>
-        <li>Version control: GitHub, GitLab</li>
-        <li>Network: Advanced configurations incl. WireGuard, VPN, SSH tunnels</li>
-        <li>Databases: DuckDB, PostgreSQL, MySQL, MongoDB</li>
-        <li>Hosting: Web servers, Nextcloud, domain management, DNS</li>
+        <li><p>Linux (Ubuntu, Debian) setup & administration</p></li>
+        <li><p>Cloud computing: Positron Server, AWS S3/EC2</p></li>
+        <li><p>Version control: GitHub, GitLab</p></li>
+        <li><p>Network: Advanced configurations incl. WireGuard, VPN, SSH tunnels</p></li>
+        <li><p>Databases: DuckDB, PostgreSQL, MySQL, MongoDB</p></li>
+        <li><p>Hosting: Web servers, Nextcloud, domain management, DNS</p></li>
   </ul>
 </details>
 
 <details>
     <summary>Preferred Stack</summary>
     <ul>
-        <li>Windows & tunnelled Ubuntu VM</li>
-        <li>Positron (with remote tunnel) > VS Code > RStudio</li>
-        <li>R tidyverse > base R > Python</li>
-        <li>DuckDB > PostgreSQL</li>
-        <li>Typst > Quarto/RMarkdown + LaTeX > pure LaTeX</li>
-        <li>Mendeley > Zotero</li>
+        <li><p>Windows & tunnelled Ubuntu VM</p></li>
+        <li><p>Positron (with remote tunnel) > VS Code > RStudio</p></li>
+        <li><p>R tidyverse > base R > Python</p></li>
+        <li><p>DuckDB > PostgreSQL</p></li>
+        <li><p>Typst > Quarto/RMarkdown + LaTeX > pure LaTeX</p></li>
+        <li><p>Mendeley > Zotero</p></li>
     </ul>
 </details>
 
