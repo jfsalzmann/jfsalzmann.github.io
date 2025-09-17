@@ -72,9 +72,33 @@ For an exhaustive & more general overview of what I've done, please see my <a hr
   Technische Universität München (TUM), Germany – TUM School of Management  
   *Department*: Chair of Operations Management, Prof. Dr. Rainer Kolisch
 
-  *Responsibilities*: Infrastructure administration: LRZ computation cloud, databases, VMs, network & system operations  
+  *Responsibilities*: Infrastructure administration: LRZ computation cloud, VMs, network & system operations, databases  
   *Supervisor*: Dr. Christian Ruf
 
 
+## Technical Skills
+
+- **Data Analysis & Statistics**
+  - *Advanced*: Bayesian statistics, multilevel & latent variable models, compositional data analysis, survey methodology, data visualisation
+  - *Intermediate*: Causal inference, geospatial analysis, machine learning, text as data, larger-than-memory data handling, web crawling
+  - *Basic*: Network analysis, deep neural networks, time series analysis
+- **Programming**
+  - *Advanced*: R, STAN, SQL, Typst, LaTeX
+  - *Intermediate*: Python, HTML/CSS, Jekyll, Markdown, JavaScript, PHP, Bash
+  - *Basic*: Julia, C++, STATA
+- **System & Server Operations**
+  - Linux (Ubuntu, Debian) full set-up, Windows
+  - Cloud computing: Positron Server, AWS S3/EC2
+  - Version control: GitHub, GitLab
+  - Network: Advanced configurations incl. WireGuard, VPN, SSH tunnels
+  - Databases: DuckDB, PostgreSQL, MySQL, MongoDB
+  - Hosting: Web servers, Nextcloud, domain management, DNS
+- **Preferred Stack**
+  - Windows & hosted Ubuntu VM
+  - Positron (with remote tunnel) > VS Code > RStudio
+  - R tidyverse > base R > Python
+  - DuckDB > PostgreSQL
+  - Typst > Quarto/RMarkdown > LaTeX raw
+  - Mendeley > Zotero
 
   [^1]: Grading scale: 1.0 = very good, 5.0 = fail
