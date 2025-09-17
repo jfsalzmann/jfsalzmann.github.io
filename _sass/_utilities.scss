@@ -477,6 +477,8 @@ body:hover .visually-hidden button {
 
 .footnotes {
   color: mix(#fff, $gray, 25%);
+  border-top: 1px solid #f2f3f3;
+  margin-top: 3em;
 
   ol, li, p {
     margin-bottom: 0;
