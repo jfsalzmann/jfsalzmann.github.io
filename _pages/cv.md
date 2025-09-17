@@ -41,7 +41,7 @@ For an exhaustive & more general overview of what I've done, please see my <a hr
 
 <ul>
     <details>
-        <summary style="list-style-position: outside;">Further courses & certifications</summary>
+        <summary>Further courses & certifications</summary>
         <ul>
             <li>Certificate in Advanced English (CAE, C1 level) – Cambridge Assessment English (2020)</li>
             <li>Exchange semester at SGH Warsaw School of Economics, Poland (2019)</li>
@@ -79,7 +79,7 @@ For an exhaustive & more general overview of what I've done, please see my <a hr
 
 <ul>
     <details>
-        <summary style="list-style-position: outside;">Related Projects</summary>
+        <summary>Related Projects</summary>
         Please see my <a href="/projects">Projects</a> page for an overview of my recent projects.
     </details>
 </ul>
@@ -95,7 +95,7 @@ For an exhaustive & more general overview of what I've done, please see my <a hr
 
 <ul><ul>
   <details>
-    <summary style="list-style-position: outside;">Familiar data sets/sources</summary>
+    <summary>Familiar data sets/sources</summary>
     <ul>
       <li>German Longitudinal Election Study (GLES)</li>
       <li>Social Sentiments in Times of Crises (SOSEC)</li>
@@ -119,7 +119,7 @@ For an exhaustive & more general overview of what I've done, please see my <a hr
 
 <ul>
     <details>
-        <summary style="list-style-position: outside;">System & Server Operations</summary>
+        <summary>System & Server Operations</summary>
         <ul>
             <li>Linux (Ubuntu, Debian) setup & administration</li>
             <li>Cloud computing: Positron Server, AWS S3/EC2</li>
@@ -130,7 +130,7 @@ For an exhaustive & more general overview of what I've done, please see my <a hr
     </ul>
     </details>
     <details>
-        <summary style="list-style-position: outside;">Preferred Stack</summary>
+        <summary>Preferred Stack</summary>
         <ul>
             <li>Windows & tunnelled Ubuntu VM</li>
             <li>Positron (with remote tunnel) > VS Code > RStudio</li>
