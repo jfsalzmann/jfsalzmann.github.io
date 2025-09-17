@@ -75,6 +75,11 @@ For an exhaustive & more general overview of what I've done, please see my <a hr
   *Responsibilities*: Infrastructure administration: LRZ computation cloud, VMs, network & system operations, databases  
   *Supervisor*: Dr. Christian Ruf
 
+<details>
+    <summary>Related Projects</summary>
+    Please see my <a href="/projects" target="_blank">Projects</a> page for an overview of my recent projects.
+</details>
+
 
 ## Technical Skills
 
@@ -110,6 +115,9 @@ For an exhaustive & more general overview of what I've done, please see my <a hr
         <li>Mendeley > Zotero</li>
     </ul>
 </details>
+
+------------    
+Thanks for your interest! Did you know I am currently looking for a PhD position? Please feel free to <a href="mailto:{{ site.author.email }}"><i class="fas fa-fw fa-envelope" aria-hidden="true"></i>reach out</a> to me or connect on <a href="https://www.linkedin.com/in/{{ site.author.linkedin }}" target="_blank"><i class="fab fa-fw fa-linkedin" aria-hidden="true"></i>LinkedIn</a>.
 
 
 [^1]: Grading scale: 1.0 = very good, 5.0 = fail
