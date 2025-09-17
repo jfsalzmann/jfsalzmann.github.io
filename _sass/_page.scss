@@ -72,13 +72,16 @@
     }
   }
 
-  li p {
-    margin: 0 0 .3em;
+  li {
     font-size: .92em;
   }
 
+  p {
+    margin: 0 0 .3em;
+  }
+
   summary {
-    list-style-position: outside;;
+    list-style-position: outside;
   }
 
   details {
