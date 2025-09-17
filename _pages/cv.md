@@ -89,9 +89,9 @@ For an exhaustive & more general overview of what I've done, please see my <a hr
 
 - **Data Analysis & Statistics**
 
-  - *Advanced* Bayesian statistics, multilevel & latent variable models, compositional data analysis, survey methodology, data simulation, data visualisation & reporting
-  - *Intermediate* Causal inference, geospatial analysis, machine learning, text as data, larger-than-memory data handling, web crawling, synthetic data generation
-  - *Basic* Network analysis, deep neural networks, time series analysis
+  *Advanced* Bayesian statistics, multilevel & latent variable models, compositional data analysis, survey methodology, data simulation, data visualisation & reporting  
+  *Intermediate* Causal inference, geospatial analysis, machine learning, text as data, larger-than-memory data handling, web crawling, synthetic data generation  
+  *Basic* Network analysis, deep neural networks, time series analysis
 
 <ul><ul>
   <details>
@@ -113,11 +113,12 @@ For an exhaustive & more general overview of what I've done, please see my <a hr
 
 
 - **Programming**
-  - *Advanced* R (+ Markdown, Quarto, Shiny), STAN, SQL, Typst, LaTeX
-  - *Intermediate* Python, HTML + CSS, JavaScript, Jekyll, PHP, Bash
-  - *Basic* Julia, C++, STATA
 
-<ul>
+  *Advanced* R (+ Markdown, Quarto, Shiny), STAN, SQL, Typst, LaTeX  
+  *Intermediate* Python, HTML + CSS, JavaScript, Jekyll, PHP, Bash  
+  *Basic* Julia, C++, STATA
+
+<ul><ul>
     <details>
         <summary>System & Server Operations</summary>
         <ul>
@@ -140,7 +141,7 @@ For an exhaustive & more general overview of what I've done, please see my <a hr
             <li>Mendeley > Zotero</li>
         </ul>
     </details>
-</ul>
+</ul></ul>
 
 
 ------------
