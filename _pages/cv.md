@@ -43,10 +43,10 @@ For an exhaustive & more general overview of what I've done, please see my <a hr
     <details>
         <summary style="list-style-position: outside;">Further courses & certifications</summary>
         <ul>
-            <li><p>Certificate in Advanced English (CAE, C1 level) – Cambridge Assessment English (2020)</p></li>
-            <li><p>Exchange semester at SGH Warsaw School of Economics, Poland (2019)</p></li>
-            <li><p>Exchange semester at SNSPA School of Public Administration, Bucharest, Romania (2023)</p></li>
-            <li><p>Extra-curricular junior courses in software development, Technische Universität Dresden (2009 – 2014)</p></li>
+            <li>Certificate in Advanced English (CAE, C1 level) – Cambridge Assessment English (2020)</li>
+            <li>Exchange semester at SGH Warsaw School of Economics, Poland (2019)</li>
+            <li>Exchange semester at SNSPA School of Public Administration, Bucharest, Romania (2023)</li>
+            <li>Extra-curricular junior courses in software development, Technische Universität Dresden (2009 – 2014)</li>
         </ul>
     </details>
 </ul>
@@ -87,57 +87,57 @@ For an exhaustive & more general overview of what I've done, please see my <a hr
 
 ## Technical Skills
 
-<ul>
-<li><p><b>Data Analysis & Statistics</b></p></li>
-  <ul>
-  <li><p><i>Advanced</i>: Bayesian statistics, multilevel & latent variable models, compositional data analysis, survey methodology, data simulation, data visualisation & reporting</p></li>
-  <li><p><i>Intermediate</i>: Causal inference, geospatial analysis, machine learning, text as data, larger-than-memory data handling, web crawling, synthetic data generation</p></li>
-  <li><p><i>Basic</i>: Network analysis, deep neural networks, time series analysis</p></li>
+- **Data Analysis & Statistics**
+
+  - **Advanced**: Bayesian statistics, multilevel & latent variable models, compositional data analysis, survey methodology, data simulation, data visualisation & reporting
+  - **Intermediate**: Causal inference, geospatial analysis, machine learning, text as data, larger-than-memory data handling, web crawling, synthetic data generation
+  - **Basic**: Network analysis, deep neural networks, time series analysis
+
+<ul><ul>
   <details>
-    <summary>Familiar data sets/sources</summary>
+    <summary style="list-style-position: outside;">Familiar data sets/sources</summary>
     <ul>
-      <li><p>German Longitudinal Election Study (GLES)</p></li>
-      <li><p>Social Sentiments in Times of Crises (SOSEC)</p></li>
-      <li><p>Forsa, Infratest dimap, Forschungsgruppe Wahlen political polls</p></li>
-      <li><p>ZEIT Online moving average models of polls</p></li>
-      <li><p>German federal- and state-level administration data (e.g. postal election)</p></li>
-      <li><p>German and US American census data</p></li>
-      <li><p>Weather data nowcast & forecast (DWD)</p></li>
-      <li><p>OpenStreetMap (OSM)</p></li>
-      <li><p>Berlin spatial data (FIS Broker)</p></li>
-      <li><p>Eurostat</p></li>
+      <li>German Longitudinal Election Study (GLES)</li>
+      <li>Social Sentiments in Times of Crises (SOSEC)</li>
+      <li>Forsa, Infratest dimap, Forschungsgruppe Wahlen political polls</li>
+      <li>ZEIT Online moving average models of polls</li>
+      <li>German federal- and state-level administration data (e.g. postal election)</li>
+      <li>German and US American census data</li>
+      <li>Weather data nowcast & forecast (DWD)</li>
+      <li>OpenStreetMap (OSM)</li>
+      <li>Berlin spatial data (FIS Broker)</li>
+      <li>Eurostat</li>
     </ul>
   </details>
-  </ul>
-<li><p><b>Programming</b></p></li>
-  <ul>
-  <li><p><i>Advanced</i>: R (+ Markdown, Quarto, Shiny), STAN, SQL, Typst, LaTeX</p></li>
-  <li><p><i>Intermediate</i>: Python, HTML/CSS, Jekyll, JavaScript, PHP, Bash</p></li>
-  <li><p><i>Basic</i>: Julia, C++, STATA</p></li>
-  </ul>
-</ul>
+</ul></ul>
+
+
+- **Programming**
+  - **Advanced**: R (+ Markdown, Quarto, Shiny), STAN, SQL, Typst, LaTeX
+  - **Intermediate**: Python, HTML + CSS, JavaScript, Jekyll, PHP, Bash
+  - **Basic**: Julia, C++, STATA
 
 <ul>
     <details>
         <summary style="list-style-position: outside;">System & Server Operations</summary>
         <ul>
-            <li><p>Linux (Ubuntu, Debian) setup & administration</p></li>
-            <li><p>Cloud computing: Positron Server, AWS S3/EC2</p></li>
-            <li><p>Version control: GitHub, GitLab</p></li>
-            <li><p>Network: Advanced configurations incl. WireGuard, VPN, SSH tunnels</p></li>
-            <li><p>Databases: DuckDB, PostgreSQL, MySQL, MongoDB</p></li>
-            <li><p>Hosting: Web servers, Nextcloud, domain management, DNS</p></li>
+            <li>Linux (Ubuntu, Debian) setup & administration</li>
+            <li>Cloud computing: Positron Server, AWS S3/EC2</li>
+            <li>Version control: GitHub, GitLab</li>
+            <li>Network: Advanced configurations incl. WireGuard, VPN, SSH tunnels</li>
+            <li>Databases: DuckDB, PostgreSQL, MySQL, MongoDB</li>
+            <li>Hosting: Web servers, Nextcloud, domain management, DNS</li>
     </ul>
     </details>
     <details>
         <summary style="list-style-position: outside;">Preferred Stack</summary>
         <ul>
-            <li><p>Windows & tunnelled Ubuntu VM</p></li>
-            <li><p>Positron (with remote tunnel) > VS Code > RStudio</p></li>
-            <li><p>R tidyverse > base R > Python</p></li>
-            <li><p>DuckDB > PostgreSQL</p></li>
-            <li><p>Typst > Quarto/RMarkdown + LaTeX > pure LaTeX</p></li>
-            <li><p>Mendeley > Zotero</p></li>
+            <li>Windows & tunnelled Ubuntu VM</li>
+            <li>Positron (with remote tunnel) > VS Code > RStudio</li>
+            <li>R tidyverse > base R > Python</li>
+            <li>DuckDB > PostgreSQL</li>
+            <li>Typst > Quarto/RMarkdown + LaTeX > pure LaTeX</li>
+            <li>Mendeley > Zotero</li>
         </ul>
     </details>
 </ul>
