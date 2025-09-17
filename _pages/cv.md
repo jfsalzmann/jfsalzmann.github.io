@@ -56,7 +56,7 @@ For an exhaustive & more general overview of what I've done, please see my <a hr
 - **Research Assistant** (since 2024)
 
   Forschungszentrum Informatik (FZI), Karlsruhe/Berlin, Germany – House of Participation (HoP)  
-  *Project* High-frequency online panel study "Social Sentiments in Times of Crises (SOSEC)", bi-weekly, USA/Germany, n=3500
+  *Project* High-frequency online panel study "Social Sentiments in Times of Crises (SOSEC)" (bi-weekly, USA/Germany, n=3500)
 
   *Responsibilities* Assurance of data quality & representativity, implementation of post-stratification and imputation methods, analysis of individual trajectories of political preference  
   *Supervisor* Prof. Dr. Michael Mäs, Karlsruhe Institute of Technology (KIT)
@@ -92,12 +92,12 @@ For an exhaustive & more general overview of what I've done, please see my <a hr
   *Advanced* Bayesian statistics, multilevel & latent variable models, compositional data analysis, survey methodology, data simulation, data visualisation & reporting
 
   *Intermediate* Causal inference, geospatial analysis, machine learning, text as data, larger-than-memory data handling, web crawling, synthetic data generation
-  
+
   *Basic* Network analysis, deep neural networks, time series analysis
 
 <ul><ul>
   <details>
-    <summary>Familiar data sets/sources</summary>
+    <summary>Familiar Data Sets/Sources</summary>
     <ul>
       <li>German Longitudinal Election Study (GLES)</li>
       <li>Social Sentiments in Times of Crises (SOSEC)</li>
@@ -129,9 +129,9 @@ For an exhaustive & more general overview of what I've done, please see my <a hr
             <li>Linux (Ubuntu, Debian) setup & administration</li>
             <li>Cloud computing: Positron Server, AWS S3/EC2</li>
             <li>Version control: GitHub, GitLab</li>
-            <li>Network: Advanced configurations incl. WireGuard, VPN, SSH tunnels</li>
+            <li>Network: Advanced configurations incl. WireGuard, VPN, SSH, DNS</li>
             <li>Databases: DuckDB, PostgreSQL, MySQL, MongoDB</li>
-            <li>Hosting: Web servers, Nextcloud, domain management, DNS</li>
+            <li>Hosting: Web servers, CMS, Nextcloud, email & domain management</li>
     </ul>
     </details>
     <details>
