@@ -89,6 +89,21 @@ For an exhaustive & more general overview of what I've done, please see my <a hr
   <li><p><i>Advanced</i>: Bayesian statistics, multilevel & latent variable models, compositional data analysis, survey methodology, data simulation, data visualisation & reporting</p></li>
   <li><p><i>Intermediate</i>: Causal inference, geospatial analysis, machine learning, text as data, larger-than-memory data handling, web crawling, synthetic data generation</p></li>
   <li><p><i>Basic</i>: Network analysis, deep neural networks, time series analysis</p></li>
+  <details>
+    <summary>Familiar data sets/sources</summary>
+    <ul>
+      <li>German Longitudinal Election Study (GLES)</li>
+      <li>Social Sentiments in Times of Crises (SOSEC)</li>
+      <li>Forsa, Infratest dimap, Forschungsgruppe Wahlen political polls</li>
+      <li>ZEIT Online moving average models of polls</li>
+      <li>German federal- and state-level administration data (e.g. postal election)</li>
+      <li>German and US American census data</li>
+      <li>Weather data nowcast & forecast (DWD)</li>
+      <li>OpenStreetMap (OSM), </li>
+      <li>Berlin spatial data (FIS Broker)</li>
+      <li>Eurostat</li>
+    </ul>
+  </details>
   </ul>
 <li><p><b>Programming</b></p></li>
   <ul>
