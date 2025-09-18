@@ -13,7 +13,7 @@ For an overview of my earlier and non-technical projects, please see my <a href=
 
 - **Modelling Week-To-Week Voting Intention Change** (2024 – 2025)  
   Master's thesis project, M.Sc. Data Science for Public Policy
-   <a href="/docs"><i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i></a>
+   <a href="/docs"><i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i></a>
 
   *Context* something  
   *Data* something  
@@ -21,7 +21,8 @@ For an overview of my earlier and non-technical projects, please see my <a href=
   *Results*
 - **Building a Shiny Web App for Ternary Plots of Generalised Dirichlet Distributions** (2025)  
   Side project to the Master's thesis, M.Sc. Data Science for Public Policy
-   <a href="https://jfsalzmann-dirichlet-generalisations.share.connect.posit.cloud/" target="_blank"><i class="fas fa-fw fa-link" aria-hidden="true"></i></a>
+   <a href="https://jfsalzmann-dirichlet-generalisations.share.connect.posit.cloud/" target="_blank"><i class="fas fa-fw fa-link" aria-hidden="true"></i></a>
+  <a href="https://github.com/jfsalzmann/dirichlet-generalisations" target="_blank"><i class="fab fa-fw fa-github" aria-hidden="true"></i></a>
 
   *Context* something  
   *Data* something  
@@ -51,9 +52,10 @@ For an overview of my earlier and non-technical projects, please see my <a href=
   *Data* something  
   *Methods* something  
   *Results*
-- **Assessing the PRC's Climate Responsibility Using Emissions Data** (2022)  
+- **Assessing the PRC's Climate Responsibility Using GHG Emissions Data** (2022)  
   Seminar group project, M.P.P. Master of Public Policy
    <a href="/docs"><i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i></a>
+  <a href="https://github.com/jfsalzmann/dataghg" target="_blank"><i class="fab fa-fw fa-github" aria-hidden="true"></i></a>
 
   *Context* something  
   *Data* something  
@@ -62,6 +64,7 @@ For an overview of my earlier and non-technical projects, please see my <a href=
 - **Forecasting Germany's Demand of Natural Gas in the Energy Crisis** (2022)  
   Seminar group project, M.P.P. Master of Public Policy
    <a href="/docs"><i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i></a>
+  <a href="https://github.com/jfsalzmann/gasprices" target="_blank"><i class="fab fa-fw fa-github" aria-hidden="true"></i></a>
 
   *Context* something  
   *Data* something  
@@ -70,7 +73,7 @@ For an overview of my earlier and non-technical projects, please see my <a href=
 
 ## Professional
 
-- **Developing a Post-Stratification and Imputation Framework for Research Projects** (2025)  
+- **Developing a Post-Stratification and Imputation Framework for the SOSEC Panel** (2025)  
   Methodological project for FZI Forschungszentrum Informatik, Berlin
 
   *Context* something  
@@ -88,17 +91,19 @@ For an overview of my earlier and non-technical projects, please see my <a href=
 - **Building a Web App for Easy & Fast Postal Vote Registration for German Elections** (2023)  
   Professional Year project for Mehr Demokratie e.V.
    <a href="https://wahlbrief.de" target="_blank"><i class="fas fa-fw fa-link" aria-hidden="true"></i></a>
+  <a href="https://github.com/Wahlbrief/wahlbrief-website" target="_blank"><i class="fab fa-fw fa-github" aria-hidden="true"></i></a>
 
   *Context* something  
   *Data* something  
   *Methods* something  
   *Results*
 
-## Private
+## Personal
 
 - **Building a Risk Model of Berlin's Public Transport Ticket Inspections** (2024)  
   Not-for-profit app development for Freifahren Berlin
    <a href="https://app.freifahren.org" target="_blank"><i class="fas fa-fw fa-link" aria-hidden="true"></i></a>
+  <a href="https://github.com/FreiFahren/FreiFahren" target="_blank"><i class="fab fa-fw fa-github" aria-hidden="true"></i></a>
 
   *Context* something  
   *Data* something  
