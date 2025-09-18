@@ -6,7 +6,7 @@ redirect_from:
   - /portfolio
 ---
 
-For an overview of both my earlier and any non-technical projects I contributed to, please see my <a href="https://www.linkedin.com/in/{{ site.author.linkedin }}" target="_blank"><i class="fab fa-fw fa-linkedin" aria-hidden="true"></i>LinkedIn</a> profile.
+For an overview of both my earlier and any non-technical projects, please see my <a href="https://www.linkedin.com/in/{{ site.author.linkedin }}" target="_blank"><i class="fab fa-fw fa-linkedin" aria-hidden="true"></i>LinkedIn</a> profile.
 
 ## Curricular
 
