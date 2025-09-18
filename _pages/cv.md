@@ -151,7 +151,8 @@ For an exhaustive & more general overview of what I've done, please see my <a hr
 
 ------------
 
-Thanks for your interest!  
+Thanks for your interest!
+
 Did you know I am currently <a href="/">looking</a> for a PhD position? Also see my <a href="/projects">Projects</a>.  
 
 Please feel free to <a href="mailto:{{ site.author.email }}"><i class="fas fa-fw fa-envelope" aria-hidden="true"></i>reach out</a> to me or connect through <a href="https://www.linkedin.com/in/{{ site.author.linkedin }}" target="_blank"><i class="fab fa-fw fa-linkedin" aria-hidden="true"></i>LinkedIn</a>.
