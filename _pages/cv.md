@@ -139,11 +139,11 @@ For an exhaustive & more general overview of what I've done, please see my <a hr
         <summary>Preferred Stack</summary>
         <ul>
             <li>Windows & tunnelled Ubuntu VM</li>
-            <li>Positron (with remote tunnel) > VS Code > RStudio</li>
-            <li>R tidyverse > base R > Python</li>
-            <li>DuckDB > PostgreSQL</li>
-            <li>Typst > Quarto/RMarkdown + LaTeX > pure LaTeX</li>
-            <li>Mendeley > Zotero</li>
+            <li>Positron (with remote tunnel) &gt; VS Code &gt; RStudio</li>
+            <li>R tidyverse &gt; base R &gt; Python</li>
+            <li>DuckDB &gt; PostgreSQL</li>
+            <li>Typst &gt; Quarto/RMarkdown + LaTeX &gt; pure LaTeX</li>
+            <li>Mendeley &gt; Zotero</li>
         </ul>
     </details>
 </ul></ul>
@@ -153,6 +153,7 @@ For an exhaustive & more general overview of what I've done, please see my <a hr
 
 Thanks for your interest!  
 Did you know I am currently <a href="/">looking</a> for a PhD position? Also see my <a href="/projects">Projects</a>.  
+
 Please feel free to <a href="mailto:{{ site.author.email }}"><i class="fas fa-fw fa-envelope" aria-hidden="true"></i>reach out</a> to me or connect through <a href="https://www.linkedin.com/in/{{ site.author.linkedin }}" target="_blank"><i class="fab fa-fw fa-linkedin" aria-hidden="true"></i>LinkedIn</a>.
 
 
