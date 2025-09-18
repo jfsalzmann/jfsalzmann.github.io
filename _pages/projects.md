@@ -1,10 +1,12 @@
 ---
-title: "Projects"
+title: "Recent Projects"
 permalink: /projects/
 author_profile: true
 redirect_from:
   - /portfolio
 ---
+
+For an overview of both my earlier and any non-technical projects I contributed to, please see my <a href="https://www.linkedin.com/in/{{ site.author.linkedin }}" target="_blank"><i class="fab fa-fw fa-linkedin" aria-hidden="true"></i>LinkedIn</a> profile.
 
 ## Curricular
 
@@ -39,7 +41,7 @@ redirect_from:
 
 ## Professional
 
-- **Developing a Post-Stratification and Imputation Framework for Internal Analyses** (2025)  
+- **Developing a Post-Stratification and Imputation Framework for Research Projects** (2025)  
   Methodological project for FZI Forschungszentrum Informatik, Berlin
 
   *Context* something  
@@ -63,11 +65,19 @@ redirect_from:
 
 ## Private
 
-- **Building a Risk Model of Berlin's Public Transport Ticket Controls** (2023)  
-  Not-for-profit app development, based on an earlier seminar project submission
+- **Building a Risk Model of Berlin's Public Transport Ticket Inspections** (2024)  
+  Not-for-profit app development for Freifahren Berlin
 
   *Context* something  
   *Data* something  
   *Methods* something spatial-temporal  
   *Results*
+- **Building a Shiny Web App for Ternary Visuals of Dirichlet Mixture Models** (2024)  
+  Not-for-profit app development for Freifahren Berlin
+
+  *Context* something  
+  *Data* something  
+  *Methods* something spatial-temporal  
+  *Results*
+
   
