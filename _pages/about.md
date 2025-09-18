@@ -17,10 +17,12 @@ Please see my <a href="/cv">Academic CV</a> and my <a href="/projects">Recent Pr
 ### Abstract
 I'm a passionate Bayesian modeller fascinated by complex social phenomena and their non-linear dynamics. I combine probabilistic methods with solid social science theory to study societal change and behavioural interplays.
 
-### Areas of interest
+### Research Areas of Interest
 
-- Electoral behaviour & public opinion dynamics
-- Social choice & preference aggregation
+- Electoral behaviour, public opinion dynamics
+- Collective action, preference aggregation
+- Social movements & networks, social influence
 - Diffusion of information, norms, behaviours
-- Climate change attitudes & social tipping points
+- Climate change attitudes, social tipping processes
 
+<a href="/cv">Read more</a>.
