@@ -91,7 +91,7 @@ For an exhaustive & more general overview of what I've done, please see my <a hr
 
   *Advanced* Bayesian statistics, multilevel & latent variable models, compositional data analysis, survey methodology, data simulation, data visualisation & reporting
 
-  *Intermediate* Causal inference, geospatial analysis, machine learning, text as data, larger-than-memory data handling, web crawling, synthetic data generation
+  *Intermediate* Causal inference, geospatial data analysis, machine learning, text as data, larger-than-memory data handling, web crawling, synthetic data generation
 
   *Basic* Network analysis, deep neural networks, time series analysis
 
@@ -103,10 +103,11 @@ For an exhaustive & more general overview of what I've done, please see my <a hr
       <li>Social Sentiments in Times of Crises (SOSEC)</li>
       <li>Forsa, Infratest dimap, Forschungsgruppe Wahlen political polls</li>
       <li>ZEIT Online moving average models of polls</li>
-      <li>German federal- and state-level administration data (e.g. postal election)</li>
+      <li>German federal- and state-level administration data</li>
       <li>German and US American census data</li>
       <li>Weather data nowcast & forecast (DWD)</li>
       <li>OpenStreetMap (OSM)</li>
+      <li>Overpass Turbo</li>
       <li>Berlin spatial data (FIS Broker)</li>
       <li>Eurostat</li>
     </ul>
@@ -151,8 +152,8 @@ For an exhaustive & more general overview of what I've done, please see my <a hr
 ------------
 
 Thanks for your interest!  
-Did you know I am currently <a href="/">looking</a> for a PhD position?  
-Please feel free to <a href="mailto:{{ site.author.email }}"><i class="fas fa-fw fa-envelope" aria-hidden="true"></i>reach out</a> to me or connect on <a href="https://www.linkedin.com/in/{{ site.author.linkedin }}" target="_blank"><i class="fab fa-fw fa-linkedin" aria-hidden="true"></i>LinkedIn</a>.
+Did you know I am currently <a href="/">looking</a> for a PhD position? Also see my <a href="/projects">Projects</a>.  
+Please feel free to <a href="mailto:{{ site.author.email }}"><i class="fas fa-fw fa-envelope" aria-hidden="true"></i>reach out</a> to me or connect through <a href="https://www.linkedin.com/in/{{ site.author.linkedin }}" target="_blank"><i class="fab fa-fw fa-linkedin" aria-hidden="true"></i>LinkedIn</a>.
 
 
 [^1]: Grading scale: 1.0 = very good, 5.0 = fail

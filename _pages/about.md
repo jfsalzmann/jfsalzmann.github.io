@@ -15,12 +15,12 @@ I'm Joff, a Berlin based recent graduate in Data Science and Public Policy from 
 Please see my <a href="/cv">Academic CV</a> and my <a href="/projects">Recent Projects</a>.
 
 ### Abstract
-I'm a passionate Bayesian modeller fascinated by complex social phenomena and their non-linear dynamics. I combine probabilistic methods with solid social science theory to study emergent societal change and the behaviours that underlie it.
+I'm a passionate Bayesian modeller fascinated by complex social phenomena and their non-linear dynamics. I combine probabilistic methods with solid social science theory to study emergent societal change through the processes and behaviours that underlie it.
 
 ### Research Areas of Interest
 
 - Electoral behaviour, public opinion dynamics
-- Collective action, preference aggregation
+- Collective action, preferences and choice
 - Social movements & networks, social influence
 - Diffusion of information, norms, behaviours
 - Climate change attitudes, social tipping processes
