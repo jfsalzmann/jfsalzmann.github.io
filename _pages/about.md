@@ -8,16 +8,19 @@ redirect_from:
 
 # Hi there!
 
-I'm Joff, a Berlin based recent graduate of Data Science and Public Policy at the Hertie School.
+I'm Joff, a Berlin based recent graduate in Data Science and Public Policy from the Hertie School.
 
-**I'm currently looking for full-time PhD opportunities** starting this autumn or winter, ideally in Berlin from January 2026.
+**I'm currently looking for full-time PhD opportunities** starting this autumn or winter.
 
 Please see my <a href="/cv">Academic CV</a> and my <a href="/projects">Recent Projects</a>.
 
 ### Abstract
-I'm a passionate Bayesian modeller who loves to approach complex non-linear social phenomena and their dynamics through data – using probabilistic methods and profound social science theory.
+I'm a passionate Bayesian modeller fascinated by complex social phenomena and their non-linear dynamics. I combine probabilistic methods with solid social science theory to study societal change and behavioural interplays.
 
 ### Areas of interest
 
 - Electoral behaviour & public opinion dynamics
-- Climate change attitudes & policy adaption
+- Social choice & preference aggregation
+- Diffusion of information, norms, behaviours
+- Climate change attitudes & social tipping points
+
