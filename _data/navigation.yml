@@ -11,8 +11,8 @@ main:
   - title: "Projects"
     url: /projects/
 
-  - title: "Research"
-    url: /research/
+  # - title: "Research"
+  #   url: /research/
 
   - title: "Code & Data"
     url: /code-data/

@@ -25,4 +25,4 @@ I'm a passionate Bayesian modeller fascinated by complex social phenomena and th
 - Diffusion of information, norms, behaviours
 - Climate change attitudes, social tipping processes
 
-<a href="/cv">Read more</a>.
+<a href="/cv"><b>Read more</b></a>.
