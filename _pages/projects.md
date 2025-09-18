@@ -8,7 +8,7 @@ redirect_from:
 
 For an overview of both my earlier and any non-technical projects, please see my <a href="https://www.linkedin.com/in/{{ site.author.linkedin }}" target="_blank"><i class="fab fa-fw fa-linkedin" aria-hidden="true"></i>LinkedIn</a> profile.
 
-## Curricular
+## Academic
 
 - **Modelling Week-To-Week Voting Intention Change** (2024 – 2025)  
   Master's thesis project, M.Sc. Data Science for Public Policy
@@ -17,6 +17,13 @@ For an overview of both my earlier and any non-technical projects, please see my
   *Data* something  
   *Methods* something  
   *Results*
+- **Building a Shiny Web App for Ternary Visuals of Dirichlet Mixture Models** (2025)  
+  Not-for-profit app development for Freifahren Berlin
+
+  *Context* something  
+  *Data* something  
+  *Methods* something spatial-temporal  
+  *Results*
 - **Building a LDA Dirichlet Classifier Model** (2024)  
   Seminar project, M.Sc. Data Science for Public Policy
 
@@ -24,7 +31,7 @@ For an overview of both my earlier and any non-technical projects, please see my
   *Data* something  
   *Methods* something  
   *Results*
-- **Building a Joint Model of Media Coverage influencing Issue Salience** (2024)  
+- **Building a Joint Model of Media Coverage Influencing Issue Salience** (2024)  
   Seminar project, M.Sc. Data Science for Public Policy
 
   *Context* something  
@@ -33,6 +40,13 @@ For an overview of both my earlier and any non-technical projects, please see my
   *Results*
 - **Analysing the Sudden Surge in Climate Awareness in Germany 2019** (2023)  
   Master's thesis project, M.P.P. Master of Public Policy
+
+  *Context* something  
+  *Data* something  
+  *Methods* something  
+  *Results*
+- **Assessing the PRC's Climate Responsibility Using Emissions Data** (2022)  
+  Seminar project, M.P.P. Master of Public Policy
 
   *Context* something  
   *Data* something  
@@ -66,13 +80,6 @@ For an overview of both my earlier and any non-technical projects, please see my
 ## Private
 
 - **Building a Risk Model of Berlin's Public Transport Ticket Inspections** (2024)  
-  Not-for-profit app development for Freifahren Berlin
-
-  *Context* something  
-  *Data* something  
-  *Methods* something spatial-temporal  
-  *Results*
-- **Building a Shiny Web App for Ternary Visuals of Dirichlet Mixture Models** (2024)  
   Not-for-profit app development for Freifahren Berlin
 
   *Context* something  
