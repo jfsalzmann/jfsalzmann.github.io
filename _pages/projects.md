@@ -29,55 +29,82 @@ For an overview of my earlier and non-technical projects, please visit my <a hre
   Side project to the Master's thesis, M.Sc. Data Science for Public Policy
    <a href="https://jfsalzmann-dirichlet-generalisations.share.connect.posit.cloud/" target="_blank"><i class="fas fa-fw fa-link" aria-hidden="true"></i></a>
   <a href="https://github.com/jfsalzmann/dirichlet-generalisations" target="_blank"><i class="fab fa-fw fa-github" aria-hidden="true"></i></a>
-
+  
+  <details class="dsub" markdown="1"><summary>Details</summary>
   *Context* There is a lack of interactive modelling helper tools when working with (generalised, that is, mixtures of) Dirichlet distributions. The web app aims to fill this gap.  
+  
   *Methods* Simulation of random draws, visualisations in a R/Shiny app hosted on Posit Connect
+  </details>
 
 - **Building an LDA Classifier Model for Full Bayesian Text Classification with STAN** (2024)  
   Seminar project, M.Sc. Data Science for Public Policy
    <a href="/docs"><i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i></a>
 
+  <details class="dsub" markdown="1"><summary>Details</summary>
   *Context* Many NLP classifiers are implemented in a frequentist/ML fashion. The project aimed to implement a full Bayesian classifier model using Latent Dirichlet Allocation (LDA).  
+  
   *Data* Synthetic text data based on Telegram messages from a Berlin public transport group  
+  
   *Methods* Inference of LDA parameters with STAN, posterior prediction, model evaluation
+  </details>
 
 - **Building a Joint Latent Model of Media Coverage Indicators and Issue Salience** (2024)  
   Seminar project, M.Sc. Data Science for Public Policy
    <a href="/docs"><i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i></a>
 
+  <details class="dsub" markdown="1"><summary>Details</summary>
   *Context* As the climate movement became popular in 2019, the German's perception of most important problem (MIP) shifted towards climate change. It was the aim of this project to combine different data sources on media coverage and issue salience polling data in a joint model.  
+  
   *Data* News coverage data, SPIEGEL & GDELT; MIP item, Forschungsgruppe Wahlen (2019)  
+  
   *Methods* Full Bayesian joint latent regression model with STAN  
+  
   *Results* Quantification of a news coverage effect of Fridays For Future protest news coverage
+  </details>
 
 - **Analysing the Sudden Surge in Climate Awareness in Germany 2019** (2023)  
   Master's thesis project, M.P.P. Master of Public Policy
    <a href="/docs"><i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i></a>
 
+  <details class="dsub" markdown="1"><summary>Details</summary>
   *Context* something  
+  
   *Data* something  
+  
   *Methods* something  
+  
   *Results*
+  </details>
 
 - **Assessing the PRC's Climate Responsibility Using GHG Emissions Data** (2022)  
   Seminar group project, M.P.P. Master of Public Policy
    <a href="/docs"><i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i></a>
   <a href="https://github.com/jfsalzmann/dataghg" target="_blank"><i class="fab fa-fw fa-github" aria-hidden="true"></i></a>
 
+  <details class="dsub" markdown="1"><summary>Details</summary>
   *Context* something  
+  
   *Data* something  
+  
   *Methods* something  
+  
   *Results*
+  </details>
 
 - **Forecasting Germany's Demand for Natural Gas in the Energy Crisis** (2022)  
   Seminar group project, M.P.P. Master of Public Policy
    <a href="/docs"><i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i></a>
   <a href="https://github.com/jfsalzmann/gasprices" target="_blank"><i class="fab fa-fw fa-github" aria-hidden="true"></i></a>
 
+  <details class="dsub" markdown="1"><summary>Details</summary>
   *Context* something  
+  
   *Data* something  
+  
   *Methods* something  
+  
   *Results*
+  </details>
 
 
 
@@ -87,20 +114,30 @@ For an overview of my earlier and non-technical projects, please visit my <a hre
   Methodological project for FZI Forschungszentrum Informatik, Berlin
    <a href="https://www.socialsentiment.org/forschungsdesign/" target="_blank"><i class="fas fa-fw fa-building-columns" aria-hidden="true"></i></a>
 
+  <details class="dsub" markdown="1"><summary>Details</summary>
   *Context* something  
+  
   *Data* something  
+  
   *Methods* something  
+  
   *Results*
+  </details>
 
 - **Analysing the Spatial Distribution of Balcony Solar Panels in Berlin** (2024)  
   Data analysis project for PLAN B 2030 e.V., Berlin
    <a href="/docs"><i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i></a>
   <a href="https://planb2030.org/balkonkraftwerke" target="_blank"><i class="fas fa-fw fa-building-columns" aria-hidden="true"></i></a>
 
+  <details class="dsub" markdown="1"><summary>Details</summary>
   *Context* something  
+  
   *Data* something  
+  
   *Methods* something  
+  
   *Results*
+  </details>
 
 - **Building a Web App for Easy & Fast Postal Vote Registration for German Elections** (2023)  
   Professional Year project for Mehr Demokratie e.V.
@@ -108,10 +145,15 @@ For an overview of my earlier and non-technical projects, please visit my <a hre
   <a href="https://github.com/Wahlbrief/wahlbrief-website" target="_blank"><i class="fab fa-fw fa-github" aria-hidden="true"></i></a>
   <a href="https://www.mehr-demokratie.de/mehr-bewegen/kampagnen/ohne-euch-wirds-schraeg" target="_blank"><i class="fas fa-fw fa-building-columns" aria-hidden="true"></i></a>
 
+  <details class="dsub" markdown="1"><summary>Details</summary>
   *Context* something  
+  
   *Data* something  
+  
   *Methods* something  
+  
   *Results*
+  </details>
 
 
 
@@ -122,10 +164,15 @@ For an overview of my earlier and non-technical projects, please visit my <a hre
    <a href="https://app.freifahren.org" target="_blank"><i class="fas fa-fw fa-link" aria-hidden="true"></i></a>
   <a href="https://github.com/FreiFahren/FreiFahren" target="_blank"><i class="fab fa-fw fa-github" aria-hidden="true"></i></a>
 
+  <details class="dsub" markdown="1"><summary>Details</summary>
   *Context* something  
+  
   *Data* something  
+  
   *Methods* something spatial-temporal  
+  
   *Results*
+  </details>
 
 
 ------------
