@@ -117,12 +117,12 @@ For an exhaustive & more general overview of what I've done, please visit my <a 
   </details>
 
 <ul><details markdown="1"><summary class="slist">Preferred Stack</summary>
-    - Windows & tunnelled Ubuntu VM
-    - Positron (with remote tunnel) &gt; VS Code &gt; RStudio
-    - R tidyverse &gt; base R &gt; Python
-    - DuckDB &gt; PostgreSQL
-    - Typst &gt; Quarto/RMarkdown + LaTeX &gt; pure LaTeX
-    - Mendeley &gt; Zotero
+  - Windows & tunnelled Ubuntu VM
+  - Positron (with remote tunnel) &gt; VS Code &gt; RStudio
+  - R tidyverse &gt; base R &gt; Python
+  - DuckDB &gt; PostgreSQL
+  - Typst &gt; Quarto/RMarkdown + LaTeX &gt; pure LaTeX
+  - Mendeley &gt; Zotero
 </details></ul>
 
 
