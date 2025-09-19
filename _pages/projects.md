@@ -59,7 +59,7 @@ For an overview of my earlier and non-technical projects, please visit my <a hre
 
   *Methods* Full Bayesian joint latent regression model with STAN
   
-  *Results* Quantification of a news coverage effect of Fridays For Future protest news coverage
+  *Results* Quantification of a news coverage effect of Fridays For Future protests on climate change issue salience
   </details>
 
 - **Analysing the Sudden Surge in Climate Awareness in Germany 2019** (2023)  
@@ -67,13 +67,13 @@ For an overview of my earlier and non-technical projects, please visit my <a hre
    <a href="/docs"><i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i></a>
 
   <details class="dsmall" markdown="1"><summary>Details</summary>
-  *Context* something
+  *Context* As the climate movement became popular in 2019, the German's perception of most important problem (MIP) shifted towards climate change and the Green party's popularity surged. The thesis aimed to analyse the multi-faceted effects Fridays For Future's protests had.
 
-  *Data* something
+  *Data* MIP and voting intention items, Forsa & Forschungsgruppe Wahlen (2019); protest records, Fridays For Future Germany
 
-  *Methods* something
+  *Methods* Theory development, regression analysis
   
-  *Results*
+  *Results* Quantification of a news coverage effect of Fridays For Future protests on climate change issue salience
   </details>
 
 - **Assessing the PRC's Climate Responsibility Using GHG Emissions Data** (2022)  
@@ -82,13 +82,13 @@ For an overview of my earlier and non-technical projects, please visit my <a hre
   <a href="https://github.com/jfsalzmann/dataghg" target="_blank"><i class="fab fa-fw fa-github" aria-hidden="true"></i></a>
 
   <details class="dsmall" markdown="1"><summary>Details</summary>
-  *Context* something
+  *Context* It is a matter of perspective (historic vs. current emissions) what the PRC's fair share of global climate mitigation efforts should be. The project aimed to shed light on the reduction pathways the PRC could take to reach climate neutrality.
 
-  *Data* something
+  *Data* GHG emissions data, PRC (1990-2020)
 
-  *Methods* something
-  
-  *Results*
+  *Methods* Descriptive analysis, visualisations, transition path forecasting models
+
+  *Results* Quantification of the PRC's historical, current, and future emissions contributions
   </details>
 
 - **Forecasting Germany's Demand for Natural Gas in the Energy Crisis** (2022)  
@@ -97,13 +97,13 @@ For an overview of my earlier and non-technical projects, please visit my <a hre
   <a href="https://github.com/jfsalzmann/gasprices" target="_blank"><i class="fab fa-fw fa-github" aria-hidden="true"></i></a>
 
   <details class="dsmall" markdown="1"><summary>Details</summary>
-  *Context* something
+  *Context* In the wake of the energy crisis following Russia's invasion of Ukraine, Germany's natural gas prices surged. The project aimed to develop forecast models for real-time demand prediction.
 
-  *Data* something
+  *Data* Various data (2017-2022): historic gas prices and demand (THE), weather data (Meteostat), CO2 prices (investing.com), electricity prices (investing.com), DAX stock market index (Yahoo finance), German GDP quarterly (World Bank)
 
-  *Methods* something
+  *Methods* Machine learning time series models
   
-  *Results*
+  *Results* Real-time week-ahead forecast of national natural gas demand
   </details>
 
 
