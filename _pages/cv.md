@@ -6,7 +6,7 @@ author_profile: true
 
 {% include base_path %}
 
-For an exhaustive & more general overview of what I've done, please see my <a href="https://www.linkedin.com/in/{{ site.author.linkedin }}" target="_blank"><i class="fab fa-fw fa-linkedin" aria-hidden="true"></i>LinkedIn</a> profile.
+For an exhaustive & more general overview of what I've done, please visit my <a href="https://www.linkedin.com/in/{{ site.author.linkedin }}" target="_blank"><i class="fab fa-fw fa-linkedin" aria-hidden="true"></i>LinkedIn</a> profile.
 
 ## Education
 
@@ -29,7 +29,7 @@ For an exhaustive & more general overview of what I've done, please see my <a hr
 - **B.Sc. Economics** (2016 – 2020)
 
   Heidelberg University, Germany – 1.7[^1]  
-  *Focus* Decision & game theory, neural & behavioral economics
+  *Focus* Decision & game theory, neural & behavioural economics
 
   *Thesis* "Air Temperature and Mortality: An Analysis of Potential Social Impacts of Global Warming using Machine Learning" – 1.7[^1]  
   *Supervisor* Prof. Dr. Christian Conrad

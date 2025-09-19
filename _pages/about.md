@@ -8,7 +8,7 @@ redirect_from:
 
 # Hi there!
 
-I'm Joff, a Berlin based recent graduate in Data Science and Public Policy from the Hertie School.
+I'm Joff, a Berlin-based recent graduate in Data Science and Public Policy from the Hertie School.
 
 **I'm currently looking for full-time PhD opportunities** starting this autumn or winter.
 

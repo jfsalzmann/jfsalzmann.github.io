@@ -6,7 +6,7 @@ redirect_from:
   - /portfolio
 ---
 
-For an overview of my earlier and non-technical projects, please see my <a href="https://www.linkedin.com/in/{{ site.author.linkedin }}" target="_blank"><i class="fab fa-fw fa-linkedin" aria-hidden="true"></i>LinkedIn</a> profile.
+For an overview of my earlier and non-technical projects, please visit my <a href="https://www.linkedin.com/in/{{ site.author.linkedin }}" target="_blank"><i class="fab fa-fw fa-linkedin" aria-hidden="true"></i>LinkedIn</a> profile.
 
 
 ## Academic
@@ -28,7 +28,7 @@ For an overview of my earlier and non-technical projects, please see my <a href=
   *Data* something  
   *Methods* something spatial-temporal  
   *Results*
-- **Building a LDA Classifier STAN Model for Full Bayesian Text Classification** (2024)  
+- **Building an LDA Classifier STAN Model for Full Bayesian Text Classification** (2024)  
   Seminar project, M.Sc. Data Science for Public Policy
    <a href="/docs"><i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i></a>
 
@@ -61,7 +61,7 @@ For an overview of my earlier and non-technical projects, please see my <a href=
   *Data* something  
   *Methods* something  
   *Results*
-- **Forecasting Germany's Demand of Natural Gas in the Energy Crisis** (2022)  
+- **Forecasting Germany's Demand for Natural Gas in the Energy Crisis** (2022)  
   Seminar group project, M.P.P. Master of Public Policy
    <a href="/docs"><i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i></a>
   <a href="https://github.com/jfsalzmann/gasprices" target="_blank"><i class="fab fa-fw fa-github" aria-hidden="true"></i></a>

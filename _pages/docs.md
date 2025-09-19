@@ -4,7 +4,7 @@ permalink: /docs/
 author_profile: true
 ---
 
-... is currently under construction. If I applied with you or your institution, I should have sent to you or your colleagues an access link already.
+... is currently under construction. If I applied with you or your institution, I should have sent you or your colleagues an access link already.
 
 Otherwise, please <a href="mailto:{{ site.author.email }}">send me an email</a>. I'm happy to share my previous work (including code and data) with interested persons.
 
