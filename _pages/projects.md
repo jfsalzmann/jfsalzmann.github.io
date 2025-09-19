@@ -75,6 +75,7 @@ For an overview of my earlier and non-technical projects, please see my <a href=
 
 - **Developing a Post-Stratification and Imputation Framework for the SOSEC Panel** (2025)  
   Methodological project for FZI Forschungszentrum Informatik, Berlin
+   <a href="https://www.socialsentiment.org/forschungsdesign/" target="_blank"><i class="fas fa-fw fa-building-columns" aria-hidden="true"></i></a>
 
   *Context* something  
   *Data* something  
@@ -83,6 +84,7 @@ For an overview of my earlier and non-technical projects, please see my <a href=
 - **Analysing the Spatial Distribution of Balcony Solar Panels in Berlin** (2024)  
   Data analysis project for PLAN B 2030 e.V., Berlin
    <a href="/docs"><i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i></a>
+  <a href="https://planb2030.org/balkonkraftwerke" target="_blank"><i class="fas fa-fw fa-building-columns" aria-hidden="true"></i></a>
 
   *Context* something  
   *Data* something  
@@ -92,6 +94,7 @@ For an overview of my earlier and non-technical projects, please see my <a href=
   Professional Year project for Mehr Demokratie e.V.
    <a href="https://wahlbrief.de" target="_blank"><i class="fas fa-fw fa-link" aria-hidden="true"></i></a>
   <a href="https://github.com/Wahlbrief/wahlbrief-website" target="_blank"><i class="fab fa-fw fa-github" aria-hidden="true"></i></a>
+  <a href="https://www.mehr-demokratie.de/mehr-bewegen/kampagnen/ohne-euch-wirds-schraeg" target="_blank"><i class="fas fa-fw fa-building-columns" aria-hidden="true"></i></a>
 
   *Context* something  
   *Data* something  
