@@ -31,14 +31,16 @@ For an overview of my earlier and non-technical projects, please visit my <a hre
   <a href="https://github.com/jfsalzmann/dirichlet-generalisations" target="_blank"><i class="fab fa-fw fa-github" aria-hidden="true"></i></a>
 
   *Context* There is a lack of interactive modelling helper tools when working with (generalised, that is, mixtures of) Dirichlet distributions. The web app aims to fill this gap.  
-  *Methods* Simulation of random draws, visualisations in a R/Shiny app hosted on Posit Connect  
+  *Methods* Simulation of random draws, visualisations in a R/Shiny app hosted on Posit Connect
+
 - **Building an LDA Classifier Model for Full Bayesian Text Classification with STAN** (2024)  
   Seminar project, M.Sc. Data Science for Public Policy
    <a href="/docs"><i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i></a>
 
   *Context* Many NLP classifiers are implemented in a frequentist/ML fashion. The project aimed to implement a full Bayesian classifier model using Latent Dirichlet Allocation (LDA).  
   *Data* Synthetic text data based on Telegram messages from a Berlin public transport group  
-  *Methods* Inference of LDA parameters with STAN, posterior prediction, model evaluation  
+  *Methods* Inference of LDA parameters with STAN, posterior prediction, model evaluation
+
 - **Building a Joint Latent Model of Media Coverage Indicators and Issue Salience** (2024)  
   Seminar project, M.Sc. Data Science for Public Policy
    <a href="/docs"><i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i></a>
@@ -47,6 +49,7 @@ For an overview of my earlier and non-technical projects, please visit my <a hre
   *Data* News coverage data, SPIEGEL & GDELT; MIP item, Forschungsgruppe Wahlen (2019)  
   *Methods* Full Bayesian joint latent regression model with STAN  
   *Results* Quantification of a news coverage effect of Fridays For Future protest news coverage
+
 - **Analysing the Sudden Surge in Climate Awareness in Germany 2019** (2023)  
   Master's thesis project, M.P.P. Master of Public Policy
    <a href="/docs"><i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i></a>
@@ -55,6 +58,7 @@ For an overview of my earlier and non-technical projects, please visit my <a hre
   *Data* something  
   *Methods* something  
   *Results*
+
 - **Assessing the PRC's Climate Responsibility Using GHG Emissions Data** (2022)  
   Seminar group project, M.P.P. Master of Public Policy
    <a href="/docs"><i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i></a>
@@ -64,6 +68,7 @@ For an overview of my earlier and non-technical projects, please visit my <a hre
   *Data* something  
   *Methods* something  
   *Results*
+
 - **Forecasting Germany's Demand for Natural Gas in the Energy Crisis** (2022)  
   Seminar group project, M.P.P. Master of Public Policy
    <a href="/docs"><i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i></a>
@@ -73,6 +78,8 @@ For an overview of my earlier and non-technical projects, please visit my <a hre
   *Data* something  
   *Methods* something  
   *Results*
+
+
 
 ## Professional
 
@@ -84,6 +91,7 @@ For an overview of my earlier and non-technical projects, please visit my <a hre
   *Data* something  
   *Methods* something  
   *Results*
+
 - **Analysing the Spatial Distribution of Balcony Solar Panels in Berlin** (2024)  
   Data analysis project for PLAN B 2030 e.V., Berlin
    <a href="/docs"><i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i></a>
@@ -93,6 +101,7 @@ For an overview of my earlier and non-technical projects, please visit my <a hre
   *Data* something  
   *Methods* something  
   *Results*
+
 - **Building a Web App for Easy & Fast Postal Vote Registration for German Elections** (2023)  
   Professional Year project for Mehr Demokratie e.V.
    <a href="https://wahlbrief.de" target="_blank"><i class="fas fa-fw fa-link" aria-hidden="true"></i></a>
@@ -103,6 +112,8 @@ For an overview of my earlier and non-technical projects, please visit my <a hre
   *Data* something  
   *Methods* something  
   *Results*
+
+
 
 ## Personal
 

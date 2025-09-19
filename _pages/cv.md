@@ -37,17 +37,12 @@ For an exhaustive & more general overview of what I've done, please visit my <a 
   Technische Universität München (TUM), Germany  
   *Focus* Numerical optimisation, statistical programming
 
-<ul>
-    <details>
-        <summary>Further courses & certifications</summary>
-        <ul>
-            <li>Certificate in Advanced English (CAE, C1 level) – Cambridge Assessment English (2020)</li>
-            <li>Exchange semester at SGH Warsaw School of Economics, Poland (2019)</li>
-            <li>Exchange semester at SNSPA School of Public Administration, Bucharest, Romania (2023)</li>
-            <li>Extra-curricular junior courses in software development, Technische Universität Dresden (2009 – 2014)</li>
-        </ul>
-    </details>
-</ul>
+<ul><details markdown="1"><summary class="slist">Further courses & certifications</summary>
+  - Certificate in Advanced English (CAE, C1 level) – Cambridge Assessment English (2020)
+  - Exchange semester at SGH Warsaw School of Economics, Poland (2019)
+  - Exchange semester at SNSPA School of Public Administration, Bucharest, Romania (2023)
+  - Extra-curricular junior courses in software development, Technische Universität Dresden (2009 – 2014)
+</details></ul>
 
 ## Experience
 
@@ -75,12 +70,9 @@ For an exhaustive & more general overview of what I've done, please visit my <a 
   *Responsibilities* Infrastructure administration: LRZ computation cloud, VMs, network & system operations, databases  
   *Supervisor* Dr. Christian Ruf
 
-<ul>
-    <details>
-        <summary>Related Projects</summary>
-        Please see my <a href="/projects">Projects</a> page for an overview of my recent projects.
-    </details>
-</ul>
+<ul><details markdown="1"><summary class="slist">Related Projects</summary>
+  Please see my <a href="/projects">Projects</a> page for an overview of my recent projects.
+</details></ul>
 
 
 ## Technical Skills
@@ -93,25 +85,19 @@ For an exhaustive & more general overview of what I've done, please visit my <a 
 
   *Basic* Network analysis, deep neural networks, time series analysis
 
-<ul><ul>
-  <details>
-    <summary>Familiar Data Sets/Sources</summary>
-    <ul>
-      <li>German Longitudinal Election Study (GLES)</li>
-      <li>Social Sentiments in Times of Crises (SOSEC)</li>
-      <li>Forsa, Infratest dimap, Forschungsgruppe Wahlen political polls</li>
-      <li>ZEIT Online moving average models of polls</li>
-      <li>German federal- and state-level administration data</li>
-      <li>German and US American census data</li>
-      <li>Weather data nowcast & forecast (DWD)</li>
-      <li>OpenStreetMap (OSM)</li>
-      <li>Overpass Turbo</li>
-      <li>Berlin spatial data (FIS Broker)</li>
-      <li>Eurostat</li>
-    </ul>
+  <details markdown="1"><summary>Familiar Data Sets/Sources</summary>
+    - German Longitudinal Election Study (GLES)
+    - Social Sentiments in Times of Crises (SOSEC)
+    - Forsa, Infratest dimap, Forschungsgruppe Wahlen political polls
+    - ZEIT Online moving average models of polls
+    - German federal- and state-level administration data
+    - German and US American census data
+    - Weather data nowcast & forecast (DWD)
+    - OpenStreetMap (OSM)
+    - Overpass Turbo
+    - Berlin spatial data (FIS Broker)
+    - Eurostat
   </details>
-</ul></ul>
-
 
 - **Programming**
 
@@ -121,30 +107,22 @@ For an exhaustive & more general overview of what I've done, please visit my <a 
 
   *Basic* Julia, C++, STATA
 
-<ul><ul>
-    <details>
-        <summary>System & Server Operations</summary>
-        <ul>
-            <li>Linux (Ubuntu, Debian) setup & administration</li>
-            <li>Cloud computing: Positron Server, AWS S3/EC2</li>
-            <li>Version control: GitHub, GitLab</li>
-            <li>Network: Advanced configurations incl. WireGuard, VPN, SSH, DNS</li>
-            <li>Databases: DuckDB, PostgreSQL, MySQL, MongoDB</li>
-            <li>Hosting: Web servers, CMS, Nextcloud, email & domain management</li>
-    </ul>
-    </details>
-    <details>
-        <summary>Preferred Stack</summary>
-        <ul>
-            <li>Windows & tunnelled Ubuntu VM</li>
-            <li>Positron (with remote tunnel) &gt; VS Code &gt; RStudio</li>
-            <li>R tidyverse &gt; base R &gt; Python</li>
-            <li>DuckDB &gt; PostgreSQL</li>
-            <li>Typst &gt; Quarto/RMarkdown + LaTeX &gt; pure LaTeX</li>
-            <li>Mendeley &gt; Zotero</li>
-        </ul>
-    </details>
-</ul></ul>
+  <details markdown="1"><summary>System & Server Operations</summary>
+    - Linux (Ubuntu, Debian) setup & administration
+    - Cloud computing: Positron Server, AWS S3/EC2
+    - Version control: GitHub, GitLab
+    - Network: Advanced configurations incl. WireGuard, VPN, SSH, DNS
+    - Databases: DuckDB, PostgreSQL, MySQL, MongoDB
+    - Hosting: Web servers, CMS, Nextcloud, email & domain management
+  </details>
+  <details markdown="1"><summary>Preferred Stack</summary>
+    - Windows & tunnelled Ubuntu VM
+    - Positron (with remote tunnel) &gt; VS Code &gt; RStudio
+    - R tidyverse &gt; base R &gt; Python
+    - DuckDB &gt; PostgreSQL
+    - Typst &gt; Quarto/RMarkdown + LaTeX &gt; pure LaTeX
+    - Mendeley &gt; Zotero
+  </details>
 
 
 ------------

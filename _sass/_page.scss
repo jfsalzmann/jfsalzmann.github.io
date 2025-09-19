@@ -72,7 +72,7 @@
     }
   }
 
-  li {
+  ul {
     font-size: .92em;
   }
 
@@ -81,13 +81,15 @@
   }
 
   summary {
-    list-style-position: outside;
     margin-bottom: .5em;
+  }
+
+  summary.slist {
+    list-style-position: outside;
   }
 
   details {
     margin: 0 0 .3em;
-    font-size: .92em;
   }
 
   hr {
