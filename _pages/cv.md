@@ -81,7 +81,7 @@ For an exhaustive & more general overview of what I've done, please visit my <a 
 
   *Advanced* Bayesian statistics, multilevel & latent variable models, compositional data analysis, survey methodology, data simulation, data visualisation & reporting
 
-  *Intermediate* Causal inference, geospatial data analysis, machine learning, text as data, larger-than-memory data handling, web crawling, synthetic data generation
+  *Intermediate* Causal inference, geospatial data analysis, machine learning, text as data / NLP, larger-than-memory data handling, web crawling, synthetic data generation
 
   *Basic* Network analysis, deep neural networks, time series analysis
 
@@ -96,8 +96,11 @@ For an exhaustive & more general overview of what I've done, please visit my <a 
     - OpenStreetMap (OSM)
     - Overpass Turbo
     - Berlin spatial data (FIS Broker)
+    - Marktstammdatenregister (BNetzA)
+    - Emissions Database for Global Atmospheric Research (EDGAR)
     - Eurostat
     - Meteostat
+    - World Bank
   </details>
 
 - **Programming**

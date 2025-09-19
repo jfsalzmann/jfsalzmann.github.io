@@ -84,7 +84,7 @@ For an overview of my earlier and non-technical projects, please visit my <a hre
   <details class="dsmall" markdown="1"><summary>Details</summary>
   *Context* It is a matter of perspective (historic vs. current emissions) what the PRC's fair share of global climate mitigation efforts should be. The project aimed to shed light on the reduction pathways the PRC could take to reach climate neutrality.
 
-  *Data* GHG emissions data, PRC (1990-2020)
+  *Data* GHG emissions data (1920-2020, EDGAR); population and economic data (1990-2020, World Bank)
 
   *Methods* Descriptive analysis, visualisations, transition path forecasting models
 
@@ -115,13 +115,11 @@ For an overview of my earlier and non-technical projects, please visit my <a hre
    <a href="https://www.socialsentiment.org/forschungsdesign/" target="_blank"><i class="fas fa-fw fa-building-columns" aria-hidden="true"></i></a>
 
   <details class="dsmall" markdown="1"><summary>Details</summary>
-  *Context* something
+  *Context* With high panel mortality, unbalanceness and inconsistencies in the sampling process, the SOSEC panel requires robust post-stratification and imputation methods to reduce bias and increase representativity.
 
-  *Data* something
+  *Data* Census data (Germany: DeStatis, USA: US Census Bureau); SOSEC panel (n=3500, bi-weekly, USA/Germany, 2023-2025), FZI
 
-  *Methods* something
-  
-  *Results*
+  *Methods* Post-stratification weights (joint distributions of demographic variables); multiple imputation
   </details>
 
 - **Analysing the Spatial Distribution of Balcony Solar Panels in Berlin** (2024)  
@@ -130,13 +128,13 @@ For an overview of my earlier and non-technical projects, please visit my <a hre
   <a href="https://planb2030.org/balkonkraftwerke" target="_blank"><i class="fas fa-fw fa-building-columns" aria-hidden="true"></i></a>
 
   <details class="dsmall" markdown="1"><summary>Details</summary>
-  *Context* something
+  *Context* State-level funding programmes have boosted the installation of small-scale solar panels in Berlin. The project aimed to analyse the spatial distribution of these panels and to draw conclusions on the success of the programme.
 
-  *Data* something
+  *Data* Marktstammdatenregister (2021-2023, BNetzA)
 
-  *Methods* something
+  *Methods* Geospatial data analysis, visualisations
   
-  *Results*
+  *Results* There is a surprising concentration of installations in wealthier single family house areas, with indications for the funding programme.
   </details>
 
 - **Building a Web App for a Unified Postal Vote Registration for German Elections** (2023)  
@@ -146,13 +144,11 @@ For an overview of my earlier and non-technical projects, please visit my <a hre
   <a href="https://www.mehr-demokratie.de/mehr-bewegen/kampagnen/ohne-euch-wirds-schraeg" target="_blank"><i class="fas fa-fw fa-building-columns" aria-hidden="true"></i></a>
 
   <details class="dsmall" markdown="1"><summary>Details</summary>
-  *Context* something
+  *Context* Online postal vote registration, as many other citizen services in Germany, is in the responsibility of the municipalities. The project aimed to build a unified web app to simplify the process.
 
-  *Data* something
+  *Data* Federal and state-level statistical offices, ZIP code data (Deutsche Post)
 
-  *Methods* something
-  
-  *Results*
+  *Methods* Matching of addresses, zip codes, administrative boundaries; web development: landing page, template-based application generator, email reminder service, information portal
   </details>
 
 
@@ -165,13 +161,11 @@ For an overview of my earlier and non-technical projects, please visit my <a hre
   <a href="https://github.com/FreiFahren/FreiFahren" target="_blank"><i class="fab fa-fw fa-github" aria-hidden="true"></i></a>
 
   <details class="dsmall" markdown="1"><summary>Details</summary>
-  *Context* something
+  *Context* A telegram group with more than 25k members reports on sightings of ticket inspection staff in Berlin. The project aimed to develop a risk model of getting checked in Berlin's public transport.
 
-  *Data* something
+  *Data* Telegram group data, Overpass Turbo (OSM)
 
-  *Methods* something spatial-temporal
-  
-  *Results*
+  *Methods* Geospatial data analysis, risk modelling
   </details>
 
 
