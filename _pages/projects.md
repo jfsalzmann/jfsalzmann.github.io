@@ -15,7 +15,7 @@ For an overview of my earlier and non-technical projects, please visit my <a hre
   Master's thesis project, M.Sc. Data Science for Public Policy
    <a href="/docs"><i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i></a>
 
-  <details markdown="1"><summary>Details</summary>
+  <details><summary>Details</summary><ul markdown="1">
   *Context* Inter-election vote switching is typically based on recall items and/or election results. The thesis aimed to develop a method for estimating transition matrices of short-term party preference change in a higher temporal resolution using high-frequency panel data.
 
   *Data* SOSEC panel (n=3500, bi-weekly, USA/Germany, 2023-2025), FZI
@@ -23,7 +23,7 @@ For an overview of my earlier and non-technical projects, please visit my <a hre
   *Methods* Hierarchical Bayesian imputation model in the latent k-dimensional simplex space
 
   *Results* Bi-weekly voting intention transition matrices, run-up to the 2025 German federal election
-  </details>
+  </ul></details>
 
 - **Building a Shiny Web App for Ternary Plots of Generalised Dirichlet Distributions** (2025)  
   Side project to the Master's thesis, M.Sc. Data Science for Public Policy
