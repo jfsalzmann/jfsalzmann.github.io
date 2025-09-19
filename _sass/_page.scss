@@ -80,6 +80,10 @@
     font-size: .92em;
   }
 
+  details.dsmall {
+    font-size: .92em;
+  }
+
   p {
     margin: 0 0 .3em;
   }
@@ -90,6 +94,10 @@
 
   summary.slist {
     list-style-position: outside;
+  }
+
+  summary.grey {
+    color: #888;
   }
 
   details {

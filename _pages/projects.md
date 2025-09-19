@@ -15,7 +15,7 @@ For an overview of my earlier and non-technical projects, please visit my <a hre
   Master's thesis project, M.Sc. Data Science for Public Policy
    <a href="/docs"><i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i></a>
 
-  <details class="dsub" markdown="1"><summary>Details</summary>
+  <details class="dsmall" markdown="1"><summary class="grey">Details</summary>
   *Context* Inter-election vote switching is typically based on recall items and/or election results. The thesis aimed to develop a method for estimating transition matrices of short-term party preference change in a higher temporal resolution using high-frequency panel data.
 
   *Data* SOSEC panel (n=3500, bi-weekly, USA/Germany, 2023-2025), FZI
@@ -29,10 +29,10 @@ For an overview of my earlier and non-technical projects, please visit my <a hre
   Side project to the Master's thesis, M.Sc. Data Science for Public Policy
    <a href="https://jfsalzmann-dirichlet-generalisations.share.connect.posit.cloud/" target="_blank"><i class="fas fa-fw fa-link" aria-hidden="true"></i></a>
   <a href="https://github.com/jfsalzmann/dirichlet-generalisations" target="_blank"><i class="fab fa-fw fa-github" aria-hidden="true"></i></a>
-  
-  <details class="dsub" markdown="1"><summary>Details</summary>
-  *Context* There is a lack of interactive modelling helper tools when working with (generalised, that is, mixtures of) Dirichlet distributions. The web app aims to fill this gap.  
-  
+
+  <details class="dsmall" markdown="1"><summary class="grey">Details</summary>
+  *Context* There is a lack of interactive modelling helper tools when working with (generalised, that is, mixtures of) Dirichlet distributions. The web app aims to fill this gap.
+
   *Methods* Simulation of random draws, visualisations in a R/Shiny app hosted on Posit Connect
   </details>
 
@@ -40,10 +40,10 @@ For an overview of my earlier and non-technical projects, please visit my <a hre
   Seminar project, M.Sc. Data Science for Public Policy
    <a href="/docs"><i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i></a>
 
-  <details class="dsub" markdown="1"><summary>Details</summary>
-  *Context* Many NLP classifiers are implemented in a frequentist/ML fashion. The project aimed to implement a full Bayesian classifier model using Latent Dirichlet Allocation (LDA).  
-  
-  *Data* Synthetic text data based on Telegram messages from a Berlin public transport group  
+  <details class="dsmall" markdown="1"><summary class="grey">Details</summary>
+  *Context* Many NLP classifiers are implemented in a frequentist/ML fashion. The project aimed to implement a full Bayesian classifier model using Latent Dirichlet Allocation (LDA).
+
+  *Data* Synthetic text data based on Telegram messages from a Berlin public transport group
   
   *Methods* Inference of LDA parameters with STAN, posterior prediction, model evaluation
   </details>
@@ -52,12 +52,12 @@ For an overview of my earlier and non-technical projects, please visit my <a hre
   Seminar project, M.Sc. Data Science for Public Policy
    <a href="/docs"><i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i></a>
 
-  <details class="dsub" markdown="1"><summary>Details</summary>
-  *Context* As the climate movement became popular in 2019, the German's perception of most important problem (MIP) shifted towards climate change. It was the aim of this project to combine different data sources on media coverage and issue salience polling data in a joint model.  
-  
-  *Data* News coverage data, SPIEGEL & GDELT; MIP item, Forschungsgruppe Wahlen (2019)  
-  
-  *Methods* Full Bayesian joint latent regression model with STAN  
+  <details class="dsmall" markdown="1"><summary class="grey">Details</summary>
+  *Context* As the climate movement became popular in 2019, the German's perception of most important problem (MIP) shifted towards climate change. It was the aim of this project to combine different data sources on media coverage and issue salience polling data in a joint model.
+
+  *Data* News coverage data, SPIEGEL & GDELT; MIP item, Forschungsgruppe Wahlen (2019)
+
+  *Methods* Full Bayesian joint latent regression model with STAN
   
   *Results* Quantification of a news coverage effect of Fridays For Future protest news coverage
   </details>
@@ -66,12 +66,12 @@ For an overview of my earlier and non-technical projects, please visit my <a hre
   Master's thesis project, M.P.P. Master of Public Policy
    <a href="/docs"><i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i></a>
 
-  <details class="dsub" markdown="1"><summary>Details</summary>
-  *Context* something  
-  
-  *Data* something  
-  
-  *Methods* something  
+  <details class="dsmall" markdown="1"><summary class="grey">Details</summary>
+  *Context* something
+
+  *Data* something
+
+  *Methods* something
   
   *Results*
   </details>
@@ -81,12 +81,12 @@ For an overview of my earlier and non-technical projects, please visit my <a hre
    <a href="/docs"><i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i></a>
   <a href="https://github.com/jfsalzmann/dataghg" target="_blank"><i class="fab fa-fw fa-github" aria-hidden="true"></i></a>
 
-  <details class="dsub" markdown="1"><summary>Details</summary>
-  *Context* something  
-  
-  *Data* something  
-  
-  *Methods* something  
+  <details class="dsmall" markdown="1"><summary class="grey">Details</summary>
+  *Context* something
+
+  *Data* something
+
+  *Methods* something
   
   *Results*
   </details>
@@ -96,12 +96,12 @@ For an overview of my earlier and non-technical projects, please visit my <a hre
    <a href="/docs"><i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i></a>
   <a href="https://github.com/jfsalzmann/gasprices" target="_blank"><i class="fab fa-fw fa-github" aria-hidden="true"></i></a>
 
-  <details class="dsub" markdown="1"><summary>Details</summary>
-  *Context* something  
-  
-  *Data* something  
-  
-  *Methods* something  
+  <details class="dsmall" markdown="1"><summary class="grey">Details</summary>
+  *Context* something
+
+  *Data* something
+
+  *Methods* something
   
   *Results*
   </details>
@@ -114,12 +114,12 @@ For an overview of my earlier and non-technical projects, please visit my <a hre
   Methodological project for FZI Forschungszentrum Informatik, Berlin
    <a href="https://www.socialsentiment.org/forschungsdesign/" target="_blank"><i class="fas fa-fw fa-building-columns" aria-hidden="true"></i></a>
 
-  <details class="dsub" markdown="1"><summary>Details</summary>
-  *Context* something  
-  
-  *Data* something  
-  
-  *Methods* something  
+  <details class="dsmall" markdown="1"><summary class="grey">Details</summary>
+  *Context* something
+
+  *Data* something
+
+  *Methods* something
   
   *Results*
   </details>
@@ -129,12 +129,12 @@ For an overview of my earlier and non-technical projects, please visit my <a hre
    <a href="/docs"><i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i></a>
   <a href="https://planb2030.org/balkonkraftwerke" target="_blank"><i class="fas fa-fw fa-building-columns" aria-hidden="true"></i></a>
 
-  <details class="dsub" markdown="1"><summary>Details</summary>
-  *Context* something  
-  
-  *Data* something  
-  
-  *Methods* something  
+  <details class="dsmall" markdown="1"><summary class="grey">Details</summary>
+  *Context* something
+
+  *Data* something
+
+  *Methods* something
   
   *Results*
   </details>
@@ -145,12 +145,12 @@ For an overview of my earlier and non-technical projects, please visit my <a hre
   <a href="https://github.com/Wahlbrief/wahlbrief-website" target="_blank"><i class="fab fa-fw fa-github" aria-hidden="true"></i></a>
   <a href="https://www.mehr-demokratie.de/mehr-bewegen/kampagnen/ohne-euch-wirds-schraeg" target="_blank"><i class="fas fa-fw fa-building-columns" aria-hidden="true"></i></a>
 
-  <details class="dsub" markdown="1"><summary>Details</summary>
-  *Context* something  
-  
-  *Data* something  
-  
-  *Methods* something  
+  <details class="dsmall" markdown="1"><summary class="grey">Details</summary>
+  *Context* something
+
+  *Data* something
+
+  *Methods* something
   
   *Results*
   </details>
@@ -164,12 +164,12 @@ For an overview of my earlier and non-technical projects, please visit my <a hre
    <a href="https://app.freifahren.org" target="_blank"><i class="fas fa-fw fa-link" aria-hidden="true"></i></a>
   <a href="https://github.com/FreiFahren/FreiFahren" target="_blank"><i class="fab fa-fw fa-github" aria-hidden="true"></i></a>
 
-  <details class="dsub" markdown="1"><summary>Details</summary>
-  *Context* something  
-  
-  *Data* something  
-  
-  *Methods* something spatial-temporal  
+  <details class="dsmall" markdown="1"><summary class="grey">Details</summary>
+  *Context* something
+
+  *Data* something
+
+  *Methods* something spatial-temporal
   
   *Results*
   </details>
