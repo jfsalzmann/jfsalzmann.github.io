@@ -115,7 +115,8 @@ For an exhaustive & more general overview of what I've done, please visit my <a 
     - Databases: DuckDB, PostgreSQL, MySQL, MongoDB
     - Hosting: Web servers, CMS, Nextcloud, email & domain management
   </details>
-  <details markdown="1"><summary>Preferred Stack</summary>
+
+- <details markdown="1"><summary class="slist">Preferred Stack</summary>
     - Windows & tunnelled Ubuntu VM
     - Positron (with remote tunnel) &gt; VS Code &gt; RStudio
     - R tidyverse &gt; base R &gt; Python
