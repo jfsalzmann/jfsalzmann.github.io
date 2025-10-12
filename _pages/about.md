@@ -25,4 +25,6 @@ I'm a passionate Bayesian modeller fascinated by complex social phenomena and th
 - Diffusion of information, norms, behaviours
 - Climate change attitudes, social tipping processes
 
+I have <a href="/projects">recently worked</a> mostly with opinion poll panels, census, and related survey data with a focus on political party preferences, vote switching, and the dynamics of voter behaviour.
+
 <a href="/cv"><b>Read more</b></a>.
