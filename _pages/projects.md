@@ -62,7 +62,7 @@ For an overview of my earlier and non-technical projects, please visit my <a hre
   *Results* Quantification of a news coverage effect of Fridays For Future protests on climate change issue salience
   </details>
 
-- **Analysing the Sudden Surge in Climate Awareness in Germany 2019** (2023)  
+- **Analysing the Sudden Surge in Climate Awareness in Germany 2019** (2022 – 2023)  
   Master's thesis project, M.P.P. Master of Public Policy
    <a href="/docs"><i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i></a>
 
@@ -124,8 +124,7 @@ For an overview of my earlier and non-technical projects, please visit my <a hre
 
 - **Analysing the Spatial Distribution of Balcony Solar Panels in Berlin** (2024)  
   Data analysis project for PLAN B 2030 e.V., Berlin
-   <a href="/docs"><i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i></a>
-  <a href="https://planb2030.org/balkonkraftwerke" target="_blank"><i class="fas fa-fw fa-building-columns" aria-hidden="true"></i></a>
+   <a href="https://planb2030.org/balkonkraftwerke" target="_blank"><i class="fas fa-fw fa-building-columns" aria-hidden="true"></i></a>
 
   <details class="dsmall" markdown="1"><summary>Details</summary>
   *Context* State-level funding programmes have boosted the installation of small-scale solar panels in Berlin. The project aimed to analyse the spatial distribution of these panels and to draw conclusions on the success of the programme.
