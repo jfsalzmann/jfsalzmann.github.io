@@ -92,28 +92,28 @@ For an exhaustive & more general overview of what I've done, please visit my <a 
 ## Conferences
 
 - **Annual Meeting of the DVPW Section "Methods of Political Science"** (2026)  
-  *Location* Leibniz University Hanover, Germany
+  *Location* Leibniz University Hanover, Germany  
   *Status* accepted
   
   *Title* Modelling Short-Term Voter Volatility: A Bayesian Imputation Approach Using High-Frequency Panel Data  
   *Track* Presentation
   
 - **PolMeth Europe** (2026)  
-  *Location* Trinity College Dublin, Ireland
+  *Location* Trinity College Dublin, Ireland  
   *Status* accepted
   
   *Title* Modelling Short-Term Voter Volatility: A Bayesian Imputation Approach Using High-Frequency Panel Data  
   *Track* Paper & Presentation
   
 - **ECPR General Conference"** (2026)  
-  *Location* Jagiellonian University, Kraków, Poland
+  *Location* Jagiellonian University, Kraków, Poland  
   *Status* reserved
   
-  *Title* Modelling Voter Volatility in Near Real Time: Analysing Short-Term Voting Intention Change Using High-Frequency Panels
+  *Title* Modelling Voter Volatility in Near Real Time: Analysing Short-Term Voting Intention Change Using High-Frequency Panels  
   *Track* Paper & Presentation
 
 - **Annual Meeting of the DVPW Working Group "Elections and Political Attitudes"** (2026)  
-  *Location* Johannes Gutenberg University Mainz, Germany
+  *Location* Johannes Gutenberg University Mainz, Germany  
   *Status* submitted
 
 
