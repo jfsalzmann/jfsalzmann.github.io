@@ -131,13 +131,14 @@ For an overview of my earlier and non-technical projects, please visit my <a hre
   *Methods* Post-stratification weights (joint distributions of demographic variables); multiple imputation
   </details>
   
-- **Maintaining a Web App for a Unified Postal Vote Registration for German Elections** (2026)  
+- **Maintaining a Web App for a Unified Postal Vote Registration for German Elections** (2025)  
   Maintenance, Federal Election 2025
    <a href="https://wahlbrief.de" target="_blank"><i class="fas fa-fw fa-link" aria-hidden="true"></i></a>
   <a href="https://github.com/okfde/wahlbrief-website" target="_blank"><i class="fab fa-fw fa-github" aria-hidden="true"></i></a>
+  <a href="https://youtu.be/Bi7y4UjEhuI?si=2EzGDymMK5Nci0t4&t=462" target="_blank"><i class="fab fa-fw fa-youtube" aria-hidden="true"></i></a>
 
   <details class="dsmall" markdown="1"><summary>Details</summary>
-  *Context* We maintained and updated the project for the German federal parliament election 2025.
+  *Context* We maintained and updated the tool for the German federal parliament election 2025. I publicly represented our initiative for Mehr Demokratie e.V.'s press and social media campaign.
   </details>
 
 - **Analysing the Spatial Distribution of Balcony Solar Panels in Berlin** (2024)  

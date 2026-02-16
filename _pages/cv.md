@@ -89,6 +89,22 @@ For an exhaustive & more general overview of what I've done, please visit my <a 
 </details></ul>
 
 
+## Conferences
+
+- **Annual Meeting of the DVPW Section "Methods of Political Science"** (2026)  
+  *Location* Leibniz University Hanover, Germany
+  
+  *Title* Modelling Short-Term Voter Volatility: A Bayesian Imputation Approach Using High-Frequency Panel Data
+  
+- **PolMeth Europe** (2026)  
+  *Location* Trinity College Dublin, Ireland
+  
+  *Title* Modelling Short-Term Voter Volatility: A Bayesian Imputation Approach Using High-Frequency Panel Data
+
+- **Annual Meeting of the DVPW W'g Group "Elections and Political Attitudes"** (2026)  
+  *Status* submitted
+
+
 ## Technical Skills
 
 - **Data Analysis & Statistics**
