@@ -111,12 +111,12 @@ For an overview of my earlier and non-technical projects, please visit my <a hre
 ## Professional
 
 - **Maintaining a Web App for a Unified Postal Vote Registration for German Elections** (2026)  
-  Transfer from Mehr Demokratie e.V. to Frag Den Staat / Open Knowledge Foundation Deutschland e.V.
+  Maintenance & Transfer to Frag Den Staat, State Elections 2026/2027
    <a href="https://wahlbrief.de" target="_blank"><i class="fas fa-fw fa-link" aria-hidden="true"></i></a>
   <a href="https://github.com/okfde/wahlbrief-website" target="_blank"><i class="fab fa-fw fa-github" aria-hidden="true"></i></a>
 
   <details class="dsmall" markdown="1"><summary>Details</summary>
-  *Context* For the ten state-level and further municipality-level elections scheduled in 2026 and 2027, we moved the Wahlbrief.de project (see below).
+  *Context* For the ten German state-level and further municipality-level elections scheduled in 2026 and 2027, we moved the Wahlbrief.de project (see below) from Mehr Demokratie e.V. to Open Knowledge Foundation Deutschland e.V.
   </details>
 
 - **Developing a Post-Stratification and Imputation Framework for the SOSEC Panel** (2025)  
@@ -129,6 +129,15 @@ For an overview of my earlier and non-technical projects, please visit my <a hre
   *Data* Census data (Germany: DeStatis, USA: US Census Bureau); SOSEC panel (n=3500, bi-weekly, USA/Germany, 2023-2025), FZI
 
   *Methods* Post-stratification weights (joint distributions of demographic variables); multiple imputation
+  </details>
+  
+- **Maintaining a Web App for a Unified Postal Vote Registration for German Elections** (2026)  
+  Maintenance, Federal Election 2025
+   <a href="https://wahlbrief.de" target="_blank"><i class="fas fa-fw fa-link" aria-hidden="true"></i></a>
+  <a href="https://github.com/okfde/wahlbrief-website" target="_blank"><i class="fab fa-fw fa-github" aria-hidden="true"></i></a>
+
+  <details class="dsmall" markdown="1"><summary>Details</summary>
+  *Context* We maintained and updated the project for the German federal parliament election 2025.
   </details>
 
 - **Analysing the Spatial Distribution of Balcony Solar Panels in Berlin** (2024)  
