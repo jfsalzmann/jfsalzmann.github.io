@@ -8,34 +8,34 @@ For an exhaustive & more general overview of what I've done, please visit my <a 
 
 ## Education
 
-- **Doctoral Program in Political Science** (2023 – 2025)
+- **Doctoral Program in Political Science** (2026 – 2030)
 
-  University of Mannheim, Germany
-  *Focus* Short-term change of political opinions and electoral preferences
+  University of Mannheim, Germany  
+  *Focus* Short-term change of political opinions and electoral preferences  
   *Supervisor* Prof. Thomas Gschwend, Ph.D.
 
 - **M.Sc. Data Science for Public Policy** (2023 – 2025)
 
-  Hertie School, Berlin, Germany
+  Hertie School, Berlin, Germany  
   *Focus* Bayesian modelling, computational statistics, causal inference
 
-  *Thesis* "Modelling Week-to-Week Voting Intention Change in Germany: A Bayesian Imputation Approach Using High-Frequency Panel Data"
+  *Thesis* "Modelling Week-to-Week Voting Intention Change in Germany: A Bayesian Imputation Approach Using High-Frequency Panel Data"  
   *Supervisors* Dr. Will Lowe, Prof. Dr. Michael Mäs
 
 - **M.P.P. Master of Public Policy** (2020 – 2023)
 
-  Hertie School, Berlin, Germany
+  Hertie School, Berlin, Germany  
   *Focus* Policy analysis, climate & energy policy, social movements
 
-  *Thesis* "A Sudden Surge in Climate Awareness: Evidence from German Political Polls in 2019"
+  *Thesis* "A Sudden Surge in Climate Awareness: Evidence from German Political Polls in 2019"  
   *Supervisor* Prof. Mark Kayser, PhD
 
 - **B.Sc. Economics** (2016 – 2020)
 
-  Heidelberg University, Germany
+  Heidelberg University, Germany  
   *Focus* Decision & game theory, neural & behavioural economics
 
-  *Thesis* "Air Temperature and Mortality: An Analysis of Potential Social Impacts of Global Warming using Machine Learning"
+  *Thesis* "Air Temperature and Mortality: An Analysis of Potential Social Impacts of Global Warming using Machine Learning"  
   *Supervisor* Prof. Dr. Christian Conrad
 
 - Courses in **B.Sc. Management & Technology** (2014 – 2015)
@@ -146,9 +146,7 @@ For an exhaustive & more general overview of what I've done, please visit my <a 
 
 ------------
 
-Thanks for your interest!
-
-Did you know I am currently <a href="/">looking</a> for a PhD position? Also see my <a href="/projects">Recent Projects</a>.  
+Thanks for your interest! Also see my <a href="/projects">Recent Projects</a>.  
 
 Please feel free to <a href="mailto:{{ site.author.email }}"><i class="fas fa-fw fa-envelope" aria-hidden="true"></i>reach out</a> to me or connect through <a href="https://www.linkedin.com/in/{{ site.author.linkedin }}" target="_blank"><i class="fab fa-fw fa-linkedin" aria-hidden="true"></i>LinkedIn</a>.
 

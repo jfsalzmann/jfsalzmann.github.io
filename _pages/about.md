@@ -8,7 +8,7 @@ redirect_from:
 
 # Hi there!
 
-I'm Joff, an incoming student of the PhD programme in Political Science at the University of Mannheim.
+I'm Joff, an incoming PhD student in Political Science at the University of Mannheim.
 
 I've recently graduated in Data Science and Public Policy from the Hertie School.
 

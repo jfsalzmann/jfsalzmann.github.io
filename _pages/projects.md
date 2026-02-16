@@ -179,8 +179,6 @@ For an overview of my earlier and non-technical projects, please visit my <a hre
 
 ------------
 
-Thanks for your interest!
-
-Did you know I am currently <a href="/">looking</a> for a PhD position? Also see my <a href="/cv">Academic CV</a>.  
+Thanks for your interest! Also see my <a href="/cv">Academic CV</a>.  
 
 Please feel free to <a href="mailto:{{ site.author.email }}"><i class="fas fa-fw fa-envelope" aria-hidden="true"></i>reach out</a> to me or connect through <a href="https://www.linkedin.com/in/{{ site.author.linkedin }}" target="_blank"><i class="fab fa-fw fa-linkedin" aria-hidden="true"></i>LinkedIn</a>.
