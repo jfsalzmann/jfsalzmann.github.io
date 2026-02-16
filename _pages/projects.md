@@ -110,9 +110,9 @@ For an overview of my earlier and non-technical projects, please visit my <a hre
 
 ## Professional
 
-**Maintaining a Web App for a Unified Postal Vote Registration for German Elections** (2026)  
+- **Maintaining a Web App for a Unified Postal Vote Registration for German Elections** (2026)  
   Transfer from Mehr Demokratie e.V. to Frag Den Staat / Open Knowledge Foundation Deutschland e.V.
-  <a href="https://wahlbrief.de" target="_blank"><i class="fas fa-fw fa-link" aria-hidden="true"></i></a>
+   <a href="https://wahlbrief.de" target="_blank"><i class="fas fa-fw fa-link" aria-hidden="true"></i></a>
   <a href="https://github.com/okfde/wahlbrief-website" target="_blank"><i class="fab fa-fw fa-github" aria-hidden="true"></i></a>
 
   <details class="dsmall" markdown="1"><summary>Details</summary>
