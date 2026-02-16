@@ -11,23 +11,20 @@ redirect_from:
 ## Angaben gemäß § 5 DDG
 
 Johann-Friedrich Salzmann<br>
-c/o Hertie School<br>
-Friedrichstr. 180<br>
-10117 Berlin
+c/o MZES<br>
+A5,6 68159 Mannheim
 
 ## Verantwortlicher für den Inhalt gemäß § 55 II 2 RStV
 
 Johann-Friedrich Salzmann<br>
-c/o Hertie School<br>
-Friedrichstr. 180<br>
-10117 Berlin
+c/o MZES<br>
+A5,6 68159 Mannheim
 
 ## Verantwortlicher Anbieter i.S.d. Art. 4 Nr. 7 DSGVO
 
 Johann-Friedrich Salzmann<br>
-c/o Hertie School<br>
-Friedrichstr. 180<br>
-10117 Berlin
+c/o MZES<br>
+A5,6 68159 Mannheim
 
 ## Kontakt
 

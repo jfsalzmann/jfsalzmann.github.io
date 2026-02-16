@@ -8,28 +8,34 @@ For an exhaustive & more general overview of what I've done, please visit my <a 
 
 ## Education
 
+- **Doctoral Program in Political Science** (2023 – 2025)
+
+  University of Mannheim, Germany
+  *Focus* Short-term change of political opinions and electoral preferences
+  *Supervisor* Prof. Thomas Gschwend, Ph.D.
+
 - **M.Sc. Data Science for Public Policy** (2023 – 2025)
 
-  Hertie School, Berlin, Germany – 1.3[^1]  
+  Hertie School, Berlin, Germany
   *Focus* Bayesian modelling, computational statistics, causal inference
 
-  *Thesis* "Modelling Week-to-Week Voting Intention Change in Germany: A Bayesian Imputation Approach Using High-Frequency Panel Data" – 1.3[^1]  
+  *Thesis* "Modelling Week-to-Week Voting Intention Change in Germany: A Bayesian Imputation Approach Using High-Frequency Panel Data"
   *Supervisors* Dr. Will Lowe, Prof. Dr. Michael Mäs
 
 - **M.P.P. Master of Public Policy** (2020 – 2023)
 
-  Hertie School, Berlin, Germany – 1.4[^1]  
+  Hertie School, Berlin, Germany
   *Focus* Policy analysis, climate & energy policy, social movements
 
-  *Thesis* "A Sudden Surge in Climate Awareness: Evidence from German Political Polls in 2019" – 1.7[^1]  
+  *Thesis* "A Sudden Surge in Climate Awareness: Evidence from German Political Polls in 2019"
   *Supervisor* Prof. Mark Kayser, PhD
 
 - **B.Sc. Economics** (2016 – 2020)
 
-  Heidelberg University, Germany – 1.7[^1]  
+  Heidelberg University, Germany
   *Focus* Decision & game theory, neural & behavioural economics
 
-  *Thesis* "Air Temperature and Mortality: An Analysis of Potential Social Impacts of Global Warming using Machine Learning" – 1.7[^1]  
+  *Thesis* "Air Temperature and Mortality: An Analysis of Potential Social Impacts of Global Warming using Machine Learning"
   *Supervisor* Prof. Dr. Christian Conrad
 
 - Courses in **B.Sc. Management & Technology** (2014 – 2015)
@@ -45,6 +51,14 @@ For an exhaustive & more general overview of what I've done, please visit my <a 
 </details></ul>
 
 ## Experience
+
+- **Research Assistant** (since 2026)
+
+  University of Mannheim, Germany – Mannheim Centre for European Social Research (MZES)
+  *Project* Zweitstimme.org project (DFG funded)
+
+  *Responsibilities* Development of a research proposal on short-term change of political opinions and electoral preferences
+  *Supervisor* Prof. Thomas Gschwend, Ph.D.
 
 - **Research Assistant** (since 2024)
 
@@ -138,5 +152,3 @@ Did you know I am currently <a href="/">looking</a> for a PhD position? Also see
 
 Please feel free to <a href="mailto:{{ site.author.email }}"><i class="fas fa-fw fa-envelope" aria-hidden="true"></i>reach out</a> to me or connect through <a href="https://www.linkedin.com/in/{{ site.author.linkedin }}" target="_blank"><i class="fab fa-fw fa-linkedin" aria-hidden="true"></i>LinkedIn</a>.
 
-
-[^1]: Grading scale: 1.0 = very good, 5.0 = fail

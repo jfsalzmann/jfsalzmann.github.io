@@ -8,13 +8,13 @@ redirect_from:
 
 # Hi there!
 
-I'm Joff, a Berlin-based recent graduate in Data Science and Public Policy from the Hertie School.
+I'm Joff, an incoming student of the PhD programme in Political Science at the University of Mannheim.
 
-**I'm currently looking for full-time PhD opportunities** starting this autumn or winter.
+I've recently graduated in Data Science and Public Policy from the Hertie School.
 
 Please see my <a href="/cv">Academic CV</a> and my <a href="/projects">Recent Projects</a>.
 
-### Abstract
+### Summary
 I'm a passionate Bayesian modeller fascinated by complex social phenomena and their non-linear dynamics. I combine probabilistic methods with solid social science theory to study emergent societal change through the processes and behaviours that underlie it.
 
 ### Research Areas of Interest

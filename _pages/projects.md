@@ -110,6 +110,15 @@ For an overview of my earlier and non-technical projects, please visit my <a hre
 
 ## Professional
 
+**Maintaining a Web App for a Unified Postal Vote Registration for German Elections** (2026)  
+  Transfer from Mehr Demokratie e.V. to Frag Den Staat / Open Knowledge Foundation Deutschland e.V.
+  <a href="https://wahlbrief.de" target="_blank"><i class="fas fa-fw fa-link" aria-hidden="true"></i></a>
+  <a href="https://github.com/okfde/wahlbrief-website" target="_blank"><i class="fab fa-fw fa-github" aria-hidden="true"></i></a>
+
+  <details class="dsmall" markdown="1"><summary>Details</summary>
+  *Context* For the ten state-level and further municipality-level elections scheduled in 2026 and 2027, we moved the Wahlbrief.de project (see below).
+  </details>
+
 - **Developing a Post-Stratification and Imputation Framework for the SOSEC Panel** (2025)  
   Methodological project for FZI Forschungszentrum Informatik, Berlin
    <a href="https://www.socialsentiment.org/forschungsdesign/" target="_blank"><i class="fas fa-fw fa-building-columns" aria-hidden="true"></i></a>

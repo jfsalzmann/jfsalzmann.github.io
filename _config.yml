@@ -27,8 +27,10 @@ author:
   aka              : "Joff"
   bio              : "M.P.P. Master of Public Policy<br>M.Sc. Data Science for Public Policy"
   location         : "Berlin, DE"
-  employer         : "Hertie School"
-  employer_url     : "https://www.hertie-school.org/en/cv-books/cv-book-2025-detail/student/salzmann"
+  employer         : "University of Mannheim"
+  employer_url     : "https://www.sowi.uni-mannheim.de/gschwend/team/"
+  employer2        : "Hertie School"
+  employer_url2    : "https://www.hertie-school.org/en/cv-books/cv-book-2025-detail/student/salzmann"
   uri              : # URL
   email            : "hello@jfsalzmann.com" 
 
