@@ -47,6 +47,9 @@
       {% if author.employer %}
         <li class="author__desktop"><a href="{{ author.employer_url }}" target="_blank"><i class="fas fa-fw fa-building-columns icon-pad-right" aria-hidden="true"></i>{{ author.employer }}</a></li>
       {% endif %}
+      {% if author.employer2 %}
+        <li class="author__desktop"><a href="{{ author.employer2_url }}" target="_blank"><i class="fas fa-fw fa-building-columns icon-pad-right" aria-hidden="true"></i>{{ author.employer2 }}</a></li>
+      {% endif %}
       {% if author.uri %}
         <li><a href="{{ author.uri }}" target="_blank"><i class="fas fa-fw fa-link icon-pad-right" aria-hidden="true"></i>{{ site.data.ui-text[site.locale].website_label | default: "Website" }}</a></li>
       {% endif %}

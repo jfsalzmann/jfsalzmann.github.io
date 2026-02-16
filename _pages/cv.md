@@ -54,7 +54,7 @@ For an exhaustive & more general overview of what I've done, please visit my <a 
 
 - **Research Assistant** (since 2026)
 
-  University of Mannheim, Germany – Mannheim Centre for European Social Research (MZES)
+  University of Mannheim, Germany – Mannheim Centre for European Social Research (MZES)  
   *Project* Zweitstimme.org project (DFG funded)
 
   *Responsibilities* Development of a research proposal on short-term change of political opinions and electoral preferences
