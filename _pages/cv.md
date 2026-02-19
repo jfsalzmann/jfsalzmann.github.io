@@ -102,9 +102,9 @@ For an exhaustive & more general overview of what I've done, please visit my <a 
   *Location* Johannes Gutenberg University Mainz, Germany  
   *Status* accepted
 
-  *Title* Modelling Voter Volatility: Analysing Short-Term Voting Intention Change Using High-Frequency Panel Data
+  *Title* Modelling Voter Volatility: Analysing Short-Term Voting Intention Change Using High-Frequency Panel Data  
   *Track* Research Plan & Presentation
-  
+
 - **PolMeth Europe** (2026)  
   *Location* Trinity College Dublin, Ireland  
   *Status* accepted
