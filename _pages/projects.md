@@ -13,7 +13,9 @@ For an overview of my earlier and non-technical projects, please visit my <a hre
 
 - **Modelling Week-To-Week Voting Intention Change** (2024 – 2025)  
   Master's thesis project, M.Sc. Data Science for Public Policy
-   <a href="/docs"><i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i></a>
+   <a href="https://doi.org/10.17605/OSF.IO/E5XWF"><i class="fas fa-fw fa-link" aria-hidden="true"></i></a>
+  <a href="https://osf.io/e5xwf/files/wv8he"><i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i></a>
+
 
   <details class="dsmall" open markdown="1"><summary>Details</summary>
   *Context* Inter-election vote switching is typically based on recall items and/or election results. The thesis aimed to develop a method for estimating transition matrices of short-term party preference change in a higher temporal resolution using high-frequency panel data.
@@ -44,7 +46,7 @@ For an overview of my earlier and non-technical projects, please visit my <a hre
   *Context* Many NLP classifiers are implemented in a frequentist/ML fashion. The project aimed to implement a full Bayesian classifier model using Latent Dirichlet Allocation (LDA).
 
   *Data* Synthetic text data based on Telegram messages from a Berlin public transport group
-  
+
   *Methods* Inference of LDA parameters with STAN, posterior prediction, model evaluation
   </details>
 
@@ -58,7 +60,7 @@ For an overview of my earlier and non-technical projects, please visit my <a hre
   *Data* News coverage data, SPIEGEL & GDELT; MIP item, Forschungsgruppe Wahlen (2019)
 
   *Methods* Full Bayesian joint latent regression model with STAN
-  
+
   *Results* Quantification of a news coverage effect of Fridays For Future protests on climate change issue salience
   </details>
 
@@ -72,7 +74,7 @@ For an overview of my earlier and non-technical projects, please visit my <a hre
   *Data* MIP and voting intention items, Forsa & Forschungsgruppe Wahlen (2019); protest records, Fridays For Future Germany
 
   *Methods* Theory development, regression analysis
-  
+
   *Results* Quantification of a news coverage effect of Fridays For Future protests on climate change issue salience
   </details>
 
@@ -102,7 +104,7 @@ For an overview of my earlier and non-technical projects, please visit my <a hre
   *Data* Various data (2017-2022): historic gas prices and demand (THE), weather data (Meteostat), CO2 prices (investing.com), electricity prices (investing.com), DAX stock market index (Yahoo finance), German GDP quarterly (World Bank)
 
   *Methods* Machine learning time series models
-  
+
   *Results* Real-time week-ahead forecast of national natural gas demand
   </details>
 
@@ -130,7 +132,7 @@ For an overview of my earlier and non-technical projects, please visit my <a hre
 
   *Methods* Post-stratification weights (joint distributions of demographic variables); multiple imputation
   </details>
-  
+
 - **Maintaining a Web App for a Unified Postal Vote Registration for German Elections** (2025)  
   Maintenance, Federal Election 2025
    <a href="https://wahlbrief.de" target="_blank"><i class="fas fa-fw fa-link" aria-hidden="true"></i></a>
@@ -151,7 +153,7 @@ For an overview of my earlier and non-technical projects, please visit my <a hre
   *Data* Marktstammdatenregister (2021-2023, BNetzA)
 
   *Methods* Geospatial data analysis, visualisations
-  
+
   *Results* There is a surprising concentration of installations in wealthier single family house areas, with indications for the funding programme.
   </details>
 
