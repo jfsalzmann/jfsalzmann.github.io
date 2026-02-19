@@ -94,27 +94,30 @@ For an exhaustive & more general overview of what I've done, please visit my <a 
 - **Annual Meeting of the DVPW Section "Methods of Political Science"** (2026)  
   *Location* Leibniz University Hanover, Germany  
   *Status* accepted
-  
+
   *Title* Modelling Short-Term Voter Volatility: A Bayesian Imputation Approach Using High-Frequency Panel Data  
   *Track* Presentation
+
+- **Annual Meeting of the DVPW Working Group "Elections and Political Attitudes"** (2026)  
+  *Location* Johannes Gutenberg University Mainz, Germany  
+  *Status* accepted
+
+  *Title* Modelling Voter Volatility: Analysing Short-Term Voting Intention Change Using High-Frequency Panel Data
+  *Track* Research Plan & Presentation
   
 - **PolMeth Europe** (2026)  
   *Location* Trinity College Dublin, Ireland  
   *Status* accepted
-  
+
   *Title* Modelling Short-Term Voter Volatility: A Bayesian Imputation Approach Using High-Frequency Panel Data  
   *Track* Paper & Presentation
-  
+
 - **ECPR General Conference"** (2026)  
   *Location* Jagiellonian University, Kraków, Poland  
   *Status* reserved
-  
+
   *Title* Modelling Voter Volatility in Near Real Time: Analysing Short-Term Voting Intention Change Using High-Frequency Panels  
   *Track* Paper & Presentation
-
-- **Annual Meeting of the DVPW Working Group "Elections and Political Attitudes"** (2026)  
-  *Location* Johannes Gutenberg University Mainz, Germany  
-  *Status* submitted
 
 
 ## Technical Skills
@@ -177,4 +180,3 @@ For an exhaustive & more general overview of what I've done, please visit my <a 
 Thanks for your interest! Also see my <a href="/projects">Recent Projects</a>.  
 
 Please feel free to <a href="mailto:{{ site.author.email }}"><i class="fas fa-fw fa-envelope" aria-hidden="true"></i>reach out</a> to me or connect through <a href="https://www.linkedin.com/in/{{ site.author.linkedin }}" target="_blank"><i class="fab fa-fw fa-linkedin" aria-hidden="true"></i>LinkedIn</a>.
-
