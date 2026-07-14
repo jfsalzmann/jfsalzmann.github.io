@@ -52,15 +52,31 @@ For an exhaustive & more general overview of what I've done, please visit my <a 
 
 ## Experience
 
-- **Research Assistant** (since 2026)
+- **Doctoral Researcher** (since 2026)
 
   University of Mannheim, Germany – Mannheim Centre for European Social Research (MZES)  
-  *Project* Zweitstimme.org project (DFG funded)
+  *Project* Understanding Short-Term Voter Realignment in Multi-Party Democracies
+
+  *Responsibilities* Initiation of a research project on short-term change of political opinions and electoral preferences  
+  *Supervisor* Prof. Thomas Gschwend, Ph.D., Dr. Denis Cohen
+
+- **Doctoral Researcher** (since 2026)
+
+  University of Mannheim, Germany – Chair of Quantitative Methods in the Social Sciences  
+  *Project* Dissertation Project
+
+  *Responsibilities* Teaching assistance for the course "Quantitative Methods" (see below)  
+  *Supervisor* Prof. Thomas Gschwend, Ph.D.
+
+- **Research Assistant** (2026)
+
+  University of Mannheim, Germany – Mannheim Centre for European Social Research (MZES)  
+  *Project* Zweitstimme.org (DFG funded)
 
   *Responsibilities* Development of a research proposal on short-term change of political opinions and electoral preferences  
   *Supervisor* Prof. Thomas Gschwend, Ph.D.
 
-- **Research Assistant** (since 2024)
+- **Research Assistant** (2024 – 2026)
 
   Forschungszentrum Informatik (FZI), Karlsruhe/Berlin, Germany – House of Participation (HoP)  
   *Project* High-frequency online panel study "Social Sentiments in Times of Crises (SOSEC)" (bi-weekly, USA/Germany, n=3500)
@@ -112,14 +128,14 @@ For an exhaustive & more general overview of what I've done, please visit my <a 
   *Title* Modelling Short-Term Voter Volatility: A Bayesian Imputation Approach Using High-Frequency Panel Data  
   *Track* Paper & Presentation
 
-- **ECPR General Conference"** (2026)  
+- **ECPR General Conference** (2026)  
   *Location* Jagiellonian University, Kraków, Poland  
   *Status* reserved, withdrawn
 
   *Title* Modelling Voter Volatility in Near Real Time: Analysing Short-Term Voting Intention Change Using High-Frequency Panels  
   *Track* Paper & Presentation
 
-- **StanCon"** (2026)  
+- **StanCon** (2026)  
   *Location* University of Uppsala, Sweden  
   *Status* accepted
 
@@ -130,8 +146,9 @@ For an exhaustive & more general overview of what I've done, please visit my <a 
 ## Teaching
 
 - **Seminar Quantiative Methods"** (2026) <a href="https://portal2.uni-mannheim.de/portal2/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=22746&periodId=1955&navigationPosition=searchCourses"><i class="fas fa-fw fa-link" aria-hidden="true"></i></a>  
-  *Institution* University of Mannheim, Germany
+  *Institution* University of Mannheim, Germany  
   *Semester* Fall Semester 2026  
+  *Level* Master's, PhD  
   *Role* Teaching Assistant
 
 
