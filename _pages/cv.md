@@ -145,7 +145,7 @@ For an exhaustive & more general overview of what I've done, please visit my <a 
 
 ## Teaching
 
-- **Seminar Quantiative Methods"** (2026) <a href="https://portal2.uni-mannheim.de/portal2/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=22746&periodId=1955&navigationPosition=searchCourses"><i class="fas fa-fw fa-link" aria-hidden="true"></i></a>  
+- **Seminar Quantiative Methods** (2026) <a href="https://portal2.uni-mannheim.de/portal2/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=22746&periodId=1955&navigationPosition=searchCourses"><i class="fas fa-fw fa-link" aria-hidden="true"></i></a>  
   *Institution* University of Mannheim, Germany  
   *Semester* Fall Semester 2026  
   *Level* Master's, PhD  
