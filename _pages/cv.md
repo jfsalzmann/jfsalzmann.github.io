@@ -114,10 +114,25 @@ For an exhaustive & more general overview of what I've done, please visit my <a 
 
 - **ECPR General Conference"** (2026)  
   *Location* Jagiellonian University, Kraków, Poland  
-  *Status* reserved
+  *Status* reserved, withdrawn
 
   *Title* Modelling Voter Volatility in Near Real Time: Analysing Short-Term Voting Intention Change Using High-Frequency Panels  
   *Track* Paper & Presentation
+
+- **StanCon"** (2026)  
+  *Location* University of Uppsala, Sweden  
+  *Status* accepted
+
+  *Title* Modelling Short-Term Voting Propensity Shifts as Trajectories on the Simplex: A Bayesian State-Space Imputation Model Using High-Frequency Panels  
+  *Track* Poster Presentation
+
+
+## Teaching
+
+- **Seminar Quantiative Methods"** (2026) <a href="https://portal2.uni-mannheim.de/portal2/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=22746&periodId=1955&navigationPosition=searchCourses"><i class="fas fa-fw fa-link" aria-hidden="true"></i></a>  
+  *Institution* University of Mannheim, Germany
+  *Semester* Fall Semester 2026  
+  *Role* Teaching Assistant
 
 
 ## Technical Skills
