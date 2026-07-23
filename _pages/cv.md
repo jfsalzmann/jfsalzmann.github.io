@@ -128,13 +128,6 @@ For an exhaustive & more general overview of what I've done, please visit my <a 
   *Title* Modelling Short-Term Voter Volatility: A Bayesian Imputation Approach Using High-Frequency Panel Data  
   *Track* Paper & Presentation
 
-- **ECPR General Conference** (2026)  
-  *Location* Jagiellonian University, Kraków, Poland  
-  *Status* reserved, withdrawn
-
-  *Title* Modelling Voter Volatility in Near Real Time: Analysing Short-Term Voting Intention Change Using High-Frequency Panels  
-  *Track* Paper & Presentation
-
 - **StanCon** (2026)  
   *Location* University of Uppsala, Sweden  
   *Status* accepted
@@ -142,29 +135,36 @@ For an exhaustive & more general overview of what I've done, please visit my <a 
   *Title* Modelling Short-Term Voting Propensity Shifts as Trajectories on the Simplex: A Bayesian State-Space Imputation Model Using High-Frequency Panels  
   *Track* Poster Presentation
 
+- <span style="color: #aaa">**ECPR General Conference** (2026)  
+  *Location* Jagiellonian University, Kraków, Poland  
+  *Status* reserved, withdrawn</span>
+
+
 
 ## Teaching
 
-- **Quantitative Methods** (2026) <a href="https://portal2.uni-mannheim.de/portal2/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=22746&periodId=1955&navigationPosition=searchCourses"><i class="fas fa-fw fa-link" aria-hidden="true"></i></a>  
+- **Quantitative Methods** (2026) <a href="https://portal2.uni-mannheim.de/portal2/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=22746&periodId=1955&navigationPosition=searchCourses" target="_blank"><i class="fas fa-fw fa-link" aria-hidden="true"></i></a>  
   *Institution* University of Mannheim, Germany  
   *Semester* Fall Semester 2026  
   *Format* Weekly Labs for Main Lecture  
   *Level* Master's, PhD  
   *Role* Lab Instructor (Teaching Assistant)
 
-- **Introduction to R for MA Political Science Students** (2026) <a href="https://portal2.uni-mannheim.de/portal2/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=79159&periodId=1955&navigationPosition=examEventOverviewOwn"><i class="fas fa-fw fa-link" aria-hidden="true"></i></a>  
+- **Introduction to R for MA Political Science Students** (2026) <a href="https://portal2.uni-mannheim.de/portal2/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=79159&periodId=1955&navigationPosition=examEventOverviewOwn" target="_blank"><i class="fas fa-fw fa-link" aria-hidden="true"></i></a>  
   *Institution* University of Mannheim, Germany  
   *Semester* Fall Semester 2026  
   *Format* Block Seminar (1 Week)  
   *Level* Master's, PhD  
   *Role* Course Instructor (Organiser)
 
-- **Advanced R for Data Analysis and Reporting** (2026) <a href="https://next.hoc.kit.edu/de/event/0x8B6A15834F714D06A989DBC31FBB7B5A"><i class="fas fa-fw fa-link" aria-hidden="true"></i></a>  
+- **Advanced R for Data Analysis and Reporting** (2026) <a href="https://next.hoc.kit.edu/de/event/0x8B6A15834F714D06A989DBC31FBB7B5A" target="_blank"><i class="fas fa-fw fa-link" aria-hidden="true"></i></a>  
   *Institution* Karlsruhe Institute of Technology (KIT), Germany  
   *Semester* Fall Semester 2026  
   *Format* One-Day Workshop  
   *Level* Open to all students  
   *Role* Course Instructor (External Lectureship)
+
+
 
 ## Technical Skills
 
