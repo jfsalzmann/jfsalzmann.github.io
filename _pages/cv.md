@@ -159,6 +159,12 @@ For an exhaustive & more general overview of what I've done, please visit my <a 
   *Level* Master's, PhD  
   *Role* Course Instructor (Organiser)
 
+- **Advanced R for Data Analysis and Reporting** (2026) <a href="https://next.hoc.kit.edu/de/event/0x8B6A15834F714D06A989DBC31FBB7B5A"><i class="fas fa-fw fa-link" aria-hidden="true"></i></a>  
+  *Institution* Karlsruhe Institute of Technology (KIT), Germany  
+  *Semester* Fall Semester 2026  
+  *Format* One-Day Workshop  
+  *Level* Open to all students  
+  *Role* Course Instructor (External Lectureship)
 
 ## Technical Skills
 
