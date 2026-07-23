@@ -12,9 +12,9 @@ For an overview of my earlier and non-technical projects, please visit my <a hre
 ## Academic
 
 - **Modelling Week-To-Week Voting Intention Change** (2024 – 2025)  
-  Master's thesis project, M.Sc. Data Science for Public Policy
-   <a href="https://doi.org/10.17605/OSF.IO/E5XWF"><i class="fas fa-fw fa-link" aria-hidden="true"></i></a>
-  <a href="https://osf.io/e5xwf/files/wv8he"><i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i></a>
+  Master's thesis project, M.Sc. Data Science for Public Policy 
+  <a href="https://doi.org/10.17605/OSF.IO/E5XWF" target="_blank"><i class="fas fa-fw fa-link" aria-hidden="true"></i></a>
+  <a href="https://osf.io/e5xwf/files/wv8he" target="_blank"><i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i></a>
 
 
   <details class="dsmall" open markdown="1"><summary>Details</summary>
